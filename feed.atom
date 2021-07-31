@@ -1,519 +1,309 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-31T13:43:56.153Z</id>
+    <id>https://yatta47.github.io/osmos-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T13:43:56.153Z</updated>
+    <updated>2021-07-31T13:51:06.465Z</updated>
     <generator>osmosfeed 1.11.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://yatta47.github.io/osmos-feed-reader/index.html"/>
+    <link rel="self" href="https://yatta47.github.io/osmos-feed-reader/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Good Vibes In August (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/</id>
-        <link href="https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/"/>
-        <updated>2021-07-31T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
+        <title type="html"><![CDATA[新型コロナウイルス感染症　自宅療養中の方へ　東京都福祉保健局]]></title>
+        <id>https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/corona_portal/shien/zitakuryouyouhandbook.html</id>
+        <link href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/corona_portal/shien/zitakuryouyouhandbook.html"/>
+        <updated>2021-07-31T10:15:54.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症と診断され、一定の条件を満たした方については、ご自宅での療養を行っていただいております。 都は、昨年11月に「自宅療養者フォローアップセンター」を開設し、LINEを活用した健康観察や、自宅療養中に必要な食料品・パルスオキシメーターの配送などの自宅療養の支援を行っております。 （新...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project]]></title>
-        <id>6053023028094f59be257c79</id>
-        <link href="https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/"/>
-        <updated>2021-07-30T22:41:08.000Z</updated>
-        <summary type="html"><![CDATA[When you are building a new website, it is important to have a good starting foundation. In this article, I will explain what an HTML 5 boilerplate is and how to create a basic template to use in your projects.  What is an HTML 5 boilerplate?According to Wikipedia,  boilerplate]]></summary>
+        <title type="html"><![CDATA[選手の活躍「政権に力」　自民・河村氏「五輪なければ不満は政権へ」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210731/k00/00m/010/281000c</id>
+        <link href="https://mainichi.jp/articles/20210731/k00/00m/010/281000c"/>
+        <updated>2021-07-31T10:14:52.000Z</updated>
+        <summary type="html"><![CDATA[自民党の河村建夫元官房長官は31日、東京五輪で日本代表選手が活躍すれば、秋までにある次期衆院選に向けて政権与党に追い風となるとの認識を示した。山口県萩市の会合で「五輪で日本選手が頑張っていることは、われわれにとっても大きな力になる」と述べた。 新型コロナウイルスが感染再拡大する中での五輪開催に批判的...]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Excel Text Function – How to Convert a Number to Text Format]]></title>
-        <id>60f534d266c61b07d458ecf8</id>
-        <link href="https://www.freecodecamp.org/news/excel-text-function-how-to-convert-a-number-to-text-format/"/>
-        <updated>2021-07-30T22:22:23.000Z</updated>
-        <summary type="html"><![CDATA[If you want to add a number to a text string, you can't do so directly since the format isn't maintained. Also, a number added to a text string doesn't have any formatting or all its decimal places.  The TEXT function comes in handy here, as it allows you to]]></summary>
+        <title type="html"><![CDATA[菅首相会見がNHK中継されると「支持率下がる」官邸で嘆きの声　1日5千人の感染者でも五輪続行 (1/2) 〈dot.〉｜AERA dot. (アエラドット)]]></title>
+        <id>https://dot.asahi.com/dot/2021073100017.html</id>
+        <link href="https://dot.asahi.com/dot/2021073100017.html"/>
+        <updated>2021-07-31T09:14:47.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス緊急事態宣言の対象地域拡大決定後の7月30日夜、記者会見した菅義偉首相の評判がすこぶる悪い。首相会見は同日午後7時のNHKニュースで生中継されたのだが、官邸からため息と嘆きの声が相次いだという。 【写真】会見直前、菅首相に苦言を呈した尾身会長らとの面会の様子はこちら 「会見は想定どおり厳...]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intro to Advanced Actor-Critic Methods: Reinforcement Learning Course]]></title>
-        <id>610478b63306a507d1bfbb23</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-advanced-actor-critic-methods-reinforcement-learning-course/"/>
-        <updated>2021-07-30T22:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Actor-Critic Methods are very useful reinforcement learning techniques. Actor-critic methods are most useful for applications in robotics as they allow software to output continuous, rather than discrete actions. This enables control of electric motors to actuate movement in robotic systems, at the expense of increased computational complexity. We just released]]></summary>
+        <title type="html"><![CDATA[柔道男子ジョージア２選手　参加資格はく奪（日本テレビ系（NNN）） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/5a571028fd61a0b03b19bf2f206488b4d018feee</id>
+        <link href="https://news.yahoo.co.jp/articles/5a571028fd61a0b03b19bf2f206488b4d018feee"/>
+        <updated>2021-07-31T09:14:23.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの柔道男子ジョージア代表で銀メダルを獲得した２人の選手が観光目的で選手村を抜けだし、大会参加資格をはく奪されたことがわかりました。 組織委員会・広報担当「選手村から観光目的で外出するというのはあってはならんということで、この事例に関してはアクレディテーションをはく奪した」 組織委員...]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is a Hyperlink? Definition for HTML Link Beginners]]></title>
-        <id>6102c9803306a507d1bfb0f4</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-html-link-beginners/"/>
-        <updated>2021-07-30T22:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Links are a defining featute of the Web and you'll find them everywhere.  As their name suggests, they create links, or connections, between pages. This allows us to navigate quickly and easily from one webpage to another.  You'll find many types of links on the Web.  There are links that]]></summary>
+        <title type="html"><![CDATA[選手の活躍「政権に力」　五輪開催で自民河村氏 ｜ 共同通信]]></title>
+        <id>https://nordot.app/794127489839874048</id>
+        <link href="https://nordot.app/794127489839874048"/>
+        <updated>2021-07-31T09:03:36.000Z</updated>
+        <summary type="html"><![CDATA[自民党の河村建夫元官房長官は31日、東京五輪で日本代表選手が活躍すれば、秋までにある次期衆院選に向けて政権与党に追い風となるとの認識を示した。山口県萩市の会合で「五輪で日本選手が頑張っていることは、われわれにとっても大きな力になる」と述べた。 新型コロナウイルスが感染再拡大する中での五輪開催に批判的...]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc]]></title>
-        <id>60f5350266c61b07d458ed04</id>
-        <link href="https://www.freecodecamp.org/news/google-docs-voice-typing-how-to-use-speech-to-text-in-a-google-doc/"/>
-        <updated>2021-07-30T20:09:13.000Z</updated>
-        <summary type="html"><![CDATA[Speech-to-Text is a really useful accessibility tool if typing is difficult for you. Or you can also use it if you like to think out loud and transcribe what you say. In this tutorial, I'll show you how to use speech-to-text in Google Docs. Do note, though, that this feature]]></summary>
+        <title type="html"><![CDATA[水谷隼　Jun Mizutani on Twitter: "言いたいことだけ言ってアカウントを消したみたいですが、あまりにも悪質な誹謗中傷は全てスクショしていますし、関係各所に連絡を行い然るべき措置を取ります。 https://t.co/ZreTH3YRmv"]]></title>
+        <id>https://twitter.com/Mizutani__Jun/status/1421374435219558406</id>
+        <link href="https://twitter.com/Mizutani__Jun/status/1421374435219558406"/>
+        <updated>2021-07-31T08:50:29.000Z</updated>
+        <summary type="html"><![CDATA[言いたいことだけ言ってアカウントを消したみたいですが、あまりにも悪質な誹謗中傷は全てスクショしていますし、関係各所に連絡を行い然るべき措置を取ります。 https://t.co/ZreTH3YRmv]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Shared ESLint Configuration]]></title>
-        <id>https://css-tricks.com/?p=345628</id>
-        <link href="https://katydecorah.com/code/eslint-config/"/>
-        <updated>2021-07-30T20:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Looks like it was almost 9 years ago when Airbnb first published their JavaScript Style Guide. 112k stars on GitHub later, it seems like the de facto preset for Babel / ES Lint. But it’s not the only company …
-The post A Shared ESLint Configuration appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[東京都内で在宅勤務してるけど、一般人のコロナ慣れがヤバい]]></title>
+        <id>https://anond.hatelabo.jp/20210729190251</id>
+        <link href="https://anond.hatelabo.jp/20210729190251"/>
+        <updated>2021-07-31T08:12:59.000Z</updated>
+        <summary type="html"><![CDATA[もうみんな感覚麻痺してきて、対策適当になってきてる感がすごいヤバい。 自分はデルタ株はガチでヤバいと思ってるので、ワクチン2回打つまでは今の生活を変えるつもりがないのだが、最近衝撃的な光景を見た。 ゴミ出しをしていると、マンションの管理人のお婆ちゃんに話しかけられたのだが何とノーマスク。 「私ワクチ...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conjuring Generative Blobs With The CSS Paint API]]></title>
-        <id>https://css-tricks.com/?p=345256</id>
-        <link href="https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/"/>
-        <updated>2021-07-30T14:54:36.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Paint API (part of the magical Houdini family) opens the door to an exciting new world of design in CSS. Using the Paint API, we can create custom shapes, intricate patterns, and beautiful animations — all with a …
-The post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[東京都 新型コロナ 4058人感染確認 過去最多 初の4000人超 | 新型コロナ 国内感染者数 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210731/k10013172931000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172931000.html"/>
+        <updated>2021-07-31T07:51:15.000Z</updated>
+        <summary type="html"><![CDATA[東京都内で31日、新型コロナウイルスの感染が確認された人は初めて4000人を超えて、過去最多の4058人になりました。7日間平均は前の週の2倍以上となる217％となり、拡大のスピードがさらにあがっています。また、都は感染が確認された3人が死亡したことを明らかにしました。 東京都は、31日都内で新たに10歳未満から100...]]></summary>
         <author>
-            <name>George Francis</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Build An E-Commerce Site With Angular 11, Commerce Layer And Paypal]]></title>
-        <id>https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/</id>
-        <link href="https://smashingmagazine.com/2021/07/ecommerce-angular11-headless-paypal/"/>
-        <updated>2021-07-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having an e-commerce store is crucial for any store owner as more and more customers are turning to online shopping. In this tutorial, we shall go through how to create an e-commerce site with Angular 11. The site will use the Commerce Layer as a headless e-commerce API and use Paypal to process payments.]]></summary>
+        <title type="html"><![CDATA[選手村で感染26人に 川淵三郎村長「拡大している印象はない」 | オリンピック・パラリンピック　大会運営 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210731/k10013172681000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172681000.html"/>
+        <updated>2021-07-31T07:16:36.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックに出場する選手などが生活の拠点とする東京 中央区の選手村で、31日までに新型コロナウイルスに感染した人が26人に上っていることについて、選手村の川淵三郎村長は記者会見で「感染が拡大している印象はない」と述べ、選手村内では感染を押さえ込めているという考えを強調しました。 東京オリンピック...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
-        <id>60f0501b66c61b07d458df00</id>
-        <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
-        <updated>2021-07-29T22:36:44.000Z</updated>
-        <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
+        <title type="html"><![CDATA[米国で東京五輪の視聴者数が低迷、ＮＢＣは広告主と補償交渉－関係者（Bloomberg） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/7d4dd367a2c9762f2df3950b859a9408bffb990c</id>
+        <link href="https://news.yahoo.co.jp/articles/7d4dd367a2c9762f2df3950b859a9408bffb990c"/>
+        <updated>2021-07-31T07:15:34.000Z</updated>
+        <summary type="html"><![CDATA[（ブルームバーグ）： 東京五輪の放映権を持つ米ＮＢＣは先週の開会式以来、視聴者数の低迷を憂慮する広告主との交渉に追われ、補償策を提案していると、事情に詳しい関係者が明らかにした。 こうした補償交渉は、テレビ業界では珍しいことではない。だが、東京五輪を巡るＮＢＣの野心的なもくろみは外れ、同社や広告主...]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Explains the Open Graph Images]]></title>
-        <id>https://css-tricks.com/?p=345518</id>
-        <link href="https://github.blog/2021-06-22-framework-building-open-graph-images/"/>
-        <updated>2021-07-29T19:49:32.000Z</updated>
-        <summary type="html"><![CDATA[An explanation of those new GitHub social media images:
-[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to 
-…
-The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[職域接種の供給遅れ 健保組合でキャンセル料4000万円負担も | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html"/>
+        <updated>2021-07-31T06:23:57.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスワクチンの職域接種をめぐり、大企業の従業員らが加入する6つの健康保険組合が、ワクチン供給の遅れをうけて接種計画を見直した結果、医師らへのキャンセル料などとして、合わせておよそ4000万円かかることがわかりました。 ワクチンの職域接種について、政府は先月下旬から新規の申請受け付けを一時...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Not Equal Sign – How to Type the Does Not Equal Symbol]]></title>
-        <id>60f534ec66c61b07d458ecfe</id>
-        <link href="https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/"/>
-        <updated>2021-07-29T18:27:33.000Z</updated>
-        <summary type="html"><![CDATA[The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a]]></summary>
+        <title type="html"><![CDATA[女性は弱者男性にだけ冷たいわけじゃない]]></title>
+        <id>https://anond.hatelabo.jp/20210731150157</id>
+        <link href="https://anond.hatelabo.jp/20210731150157"/>
+        <updated>2021-07-31T06:03:29.000Z</updated>
+        <summary type="html"><![CDATA[弱者女性にも冷たい。 具体的にはブスに冷たいし、発達障害の女性や知的障害ボーダーラインの女性のような、 仕事の足を引っ張る系の女性にはもっと冷たい。 男性の30%くらいは「ヒーロー願望」みたいな気質を持ってるんだよ。 自分より劣ってる奴を助けてやるオレってカッケーみたいなイキリ感情。 その気質が暴走して...]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud]]></title>
-        <id>6102ccd03306a507d1bfb150</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/"/>
-        <updated>2021-07-29T15:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on]]></summary>
+        <title type="html"><![CDATA[「弁当を廃棄するなら僕たちに回して」IOC会見にボランティアの大学生が乱入するハプニング…質問しようと手を挙げるも制止される【東京五輪】：中日スポーツ・東京中日スポーツ]]></title>
+        <id>https://www.chunichi.co.jp/article/301770</id>
+        <link href="https://www.chunichi.co.jp/article/301770"/>
+        <updated>2021-07-31T05:48:00.000Z</updated>
+        <summary type="html"><![CDATA[捨てるくらいなら、僕らボランティアに回して―。国際オリンピック委員会（ＩＯＣ）と東京五輪組織委員会が東京都内で報道陣向けに毎日開いている定例会見に３１日、五輪メインプレスセンターのＩＢＣ（テレビ局の五輪活動拠点）付近でボランティアをしている大学４年生（２２）が“乱入”。「弁当を廃棄するくらいなら僕た...]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet]]></title>
-        <id>60fc708a22b0e2078fcd0cdc</id>
-        <link href="https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/"/>
-        <updated>2021-07-29T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will]]></summary>
+        <title type="html"><![CDATA[chocolat. on Twitter: "【注意喚起】 作家の竹田恒泰氏が当アカウントを名指しし、氏名や居住地域とされる情報を繰り返しツイートし拡散を呼びかけるという事案が発生しました。 公開に同意していない他者の氏名・住所・セクシュアリティ等を暴露するような行為は重大… https://t.co/02hN3AykrG"]]></title>
+        <id>https://twitter.com/chocolat_psyder/status/1421325311598202881</id>
+        <link href="https://twitter.com/chocolat_psyder/status/1421325311598202881"/>
+        <updated>2021-07-31T05:20:46.000Z</updated>
+        <summary type="html"><![CDATA[【注意喚起】 作家の竹田恒泰氏が当アカウントを名指しし、氏名や居住地域とされる情報を繰り返しツイートし拡散を呼びかけるという事案が発生しました。 公開に同意していない他者の氏名・住所・セクシュアリティ等を暴露するような行為は重大… https://t.co/02hN3AykrG]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python If Else Statement – Conditional Statements Explained]]></title>
-        <id>61018d5c3306a507d1bfa74a</id>
-        <link href="https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/"/>
-        <updated>2021-07-29T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional]]></summary>
+        <title type="html"><![CDATA[「人生で観た映画は『プリティ・ウーマン』だけ」「累計400回観てる」　芸人・くまだまさしの噂は本当か？本人に聞いてきた : 映画ニュース - 映画.com]]></title>
+        <id>https://eiga.com/news/20210731/13/</id>
+        <link href="https://eiga.com/news/20210731/13/"/>
+        <updated>2021-07-31T05:01:46.000Z</updated>
+        <summary type="html"><![CDATA[ホーム > 映画ニュース > 2021年7月31日 > 「人生で観た映画は『プリティ・ウーマン』だけ」「累計400回観てる」　芸人・くまだまさしの噂は本当か？本人に聞いてきた 「人生で観た映画は『プリティ・ウーマン』だけ」「累計400回観てる」　芸人・くまだまさしの噂は本当か？本人に聞いてきた 2021年7月31日 12:00 「プ...]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[So you want to self-publish books and courses on programming]]></title>
-        <id>https://css-tricks.com/?p=344993</id>
-        <link href="https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/"/>
-        <updated>2021-07-29T14:54:00.000Z</updated>
-        <summary type="html"><![CDATA[John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …
-The post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[新型コロナ第5波の感染者に占める重症者の割合が少なくても、医療体制の逼迫が起こりうる理由（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20210731-00250705</id>
+        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20210731-00250705"/>
+        <updated>2021-07-31T04:27:18.000Z</updated>
+        <summary type="html"><![CDATA[全国で新型コロナの第5波に見舞われており、特に関東ではこれまでで最大規模の流行となっています。 第5波の特徴として感染者数に占める重症者の割合が少ないことが挙げられますが、だからといって決して安心できるものではありません。 東京都の新規感染者数は第3波のピークを超えさらに増加東京都の新型コロナ新規感染...]]></summary>
         <author>
-            <name>Loren Sands-Ramshaw</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Developer-Friendly Passwordless Auth]]></title>
-        <id>https://css-tricks.com/?p=345260</id>
-        <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
-        <updated>2021-07-29T14:47:47.000Z</updated>
-        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
-The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[休業・時短の要請応じない飲食店を個別訪問へ 東京都 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210731/k10013172171000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172171000.html"/>
+        <updated>2021-07-31T02:27:16.000Z</updated>
+        <summary type="html"><![CDATA[東京都内で感染が急拡大するなか、都は、休業や時短の要請に応じていない飲食店を個別にまわり、店主などに直接働きかけることになりました。初めての取り組みですが、要請が長期化するなか理解を得られるかがポイントです。 今月12日からの4回目の緊急事態宣言で、都は酒やカラオケ設備を提供する飲食店には休業を、提...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
-        <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
-        <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
-        <updated>2021-07-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.]]></summary>
+        <title type="html"><![CDATA[「法律以前に日本人は発狂しますよ。」日本でのロックダウンは不可能と、数カ月ロックダウンを経験したマレーシア在住社長が考える理由 - Togetter]]></title>
+        <id>https://togetter.com/li/1752381</id>
+        <link href="https://togetter.com/li/1752381"/>
+        <updated>2021-07-31T02:14:26.000Z</updated>
+        <summary type="html"><![CDATA[リンク 時事ドットコム 「ロックダウンの法整備検討を」 政府分科会で求める声：時事ドットコム ３０日に開かれた新型コロナウイルス対策を協議する基本的対処方針分科会で、出席者から将来的にロックダウン（都市封鎖）を可能とする法整備の検討を求める意見が出された。 381 users 746 時事ドットコム（時事通信ニュー...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Elad Shechter)</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safari 15 Opinions]]></title>
-        <id>https://css-tricks.com/?p=345404</id>
-        <link href="https://css-tricks.com/safari-15-opinions/"/>
-        <updated>2021-07-28T20:21:55.000Z</updated>
-        <summary type="html"><![CDATA[It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …
-The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Introduction to heredocs in Dockerfiles - Docker Blog]]></title>
+        <id>https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/</id>
+        <link href="https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/"/>
+        <updated>2021-07-31T01:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Guest post by Docker Community Member Justin Chadell. This post originally appeared here. As of a couple weeks ago, Docker’s BuildKit tool for building Dockerfiles now supports heredoc syntax! With these new improvements, we can do all sorts of things that were difficult before, like multiline RU...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Absolute Value, Sign, Rounding and Modulo in CSS Today]]></title>
-        <id>https://css-tricks.com/?p=320544</id>
-        <link href="https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/"/>
-        <updated>2021-07-28T14:37:34.000Z</updated>
-        <summary type="html"><![CDATA[For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…
-The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[一度の不祥事で、人生を「全否定」される…東京五輪で見えてきた「末恐ろしい風潮」（トイアンナ） | マネー現代 | 講談社（1/5）]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/85666</id>
+        <link href="https://gendai.ismedia.jp/articles/-/85666"/>
+        <updated>2021-07-31T01:19:46.000Z</updated>
+        <summary type="html"><![CDATA[思い出してほしい。 あなたの小中学校で、イジメはあっただろうか。 「あった」と答える人の方が多いはずだ。2009年の調査では、小学校で87.1％、中学校で93.0％の人が、言動によるいじめ被害を受けたというデータがある。これだけいじめの「被害経験」が報告されているのだから、それを見たことがある人も多いだろう。 ...]]></summary>
         <author>
-            <name>Ana Tudor</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating An Accessible Dialog From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/</id>
-        <link href="https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/"/>
-        <updated>2021-07-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
+        <title type="html"><![CDATA[「車はまだか」五輪ファミリーに迫られボランティア困惑 - 東京オリンピック：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7Z6K87P7ZUTIL00G.html</id>
+        <link href="https://www.asahi.com/articles/ASP7Z6K87P7ZUTIL00G.html"/>
+        <updated>2021-07-31T01:08:08.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック（五輪）を下支えしている大会ボランティアが運営上のトラブルに巻き込まれ、困惑している。新型コロナウイルスの感染急拡大も重なり、思い描いていた五輪との落差に戸惑いを感じる人たちもいる。 「オリンピック・ファミリー・アシスタント」（OFA） 東京都心の高級ホテルに滞在する国際オリンピック委...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learnings From a WebPageTest Session on CSS-Tricks]]></title>
-        <id>https://css-tricks.com/?p=345169</id>
-        <link href="https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/"/>
-        <updated>2021-07-27T23:18:33.000Z</updated>
-        <summary type="html"><![CDATA[I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …
-The post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[【検証】村上茉愛選手は「五輪を反対している人を見返したい。思い知ったか」と言ったのか？（篠原修司） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/shinoharashuji/20210731-00250717</id>
+        <link href="https://news.yahoo.co.jp/byline/shinoharashuji/20210731-00250717"/>
+        <updated>2021-07-31T00:47:18.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピックの体操女子個人総合に出場した村上茉愛（まい）選手が試合後のインタビューで、「五輪を反対している人を見返したい。そういう人たちに思い知ったかと思ってもらいたい」と答えたとして批判されています。 本当にそのようなことを言ったのでしょうか？ 発端はデイリースポーツの記事　批判が起きる原因...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ES2021 Features]]></title>
-        <id>https://css-tricks.com/?p=345400</id>
-        <link href="https://h3manth.com/ES2021/"/>
-        <updated>2021-07-27T23:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. 
-There are new things like “arbitrarily chuck underscores …
-The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[小池知事「この夏を最後のステイホームに」　東京の緊急事態を延長、新たな対策はなし：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/120694</id>
+        <link href="https://www.tokyo-np.co.jp/article/120694"/>
+        <updated>2021-07-30T22:01:33.000Z</updated>
+        <summary type="html"><![CDATA[東京都は３０日、新型コロナウイルス対策の緊急事態宣言が８月末まで延長されるのに伴い、対策本部会議を開き、延長後も引き続き飲食店に酒類提供停止を要請する感染防止策を決定した。小池百合子知事は「これ以上の感染拡大を食い止めなければならない」と強調。一方で、当面の感染急増を抑えるための新たな措置は盛り...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Logical Properties and Values]]></title>
-        <id>https://css-tricks.com/?p=344815</id>
-        <link href="https://css-tricks.com/css-logical-properties-and-values/"/>
-        <updated>2021-07-27T15:02:43.000Z</updated>
-        <summary type="html"><![CDATA[Now that cross-browser support is at a tipping point, it’s a good time to take a look at logical properties and values. If you’re creating a website in multiple languages, logical properties and values are incredibly useful. Even if you’re …
-The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[新型コロナ: 米東部クラスター、ワクチン接種者が74%　当局分析　: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOGN30FFC0Q1A730C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOGN30FFC0Q1A730C2000000/"/>
+        <updated>2021-07-30T21:13:03.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ニューヨーク=野村優子】米疾病対策センター（CDC）は30日、東部マサチューセッツ州で発生した新型コロナウイルスのクラスター（感染者集団）について、感染者の4分...]]></summary>
         <author>
-            <name>Ollie Williams</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Global vs. Local Styling In Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/07/global-local-styling-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/07/global-local-styling-nextjs/"/>
-        <updated>2021-07-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
+        <title type="html"><![CDATA[政権を支配する楽観論　「首相がそういうデータ出せと」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7Z6GK2P7ZUTFK012.html</id>
+        <link href="https://www.asahi.com/articles/ASP7Z6GK2P7ZUTFK012.html"/>
+        <updated>2021-07-30T20:39:58.000Z</updated>
+        <summary type="html"><![CDATA[緊急事態宣言の拡大と延長が決まった。東京五輪の期間中に新型コロナの感染爆発に至り、感染の高波が収まる兆しはない。だが、菅義偉首相は五輪開催で人の流れは減っているとの見方を繰り返した。首相周辺では、近く感染状況が改善するとの楽観シナリオが語られている。 宣言の拡大などを決めた後、首相は官邸で記者会見...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demystifying styled-components]]></title>
-        <id>https://css-tricks.com/?p=345297</id>
-        <link href="https://www.joshwcomeau.com/react/demystifying-styled-components/"/>
-        <updated>2021-07-27T00:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. 
-styled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …
-The post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[菅首相、開催基準示さぬまま五輪に突入した責任に言及せず　本紙の質問はぐらかし続ける：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/120710</id>
+        <link href="https://www.tokyo-np.co.jp/article/120710"/>
+        <updated>2021-07-30T15:02:47.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は３０日の記者会見で、東京五輪を中止しない考えをあらためて示した。だが、本紙が開幕前の４月以降、首相の会見で繰り返し質問した感染拡大につながるリスクへの認識や、開催の可否を判断する基準は一度も正面から説明していない。国民の不安と疑問に向き合わず、感染拡大を抑えることもできず、自ら「異例...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust]]></title>
-        <id>https://css-tricks.com/?p=344653</id>
-        <link href="https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"/>
-        <updated>2021-07-26T14:36:13.000Z</updated>
-        <summary type="html"><![CDATA[At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …
-The post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[但馬問屋 on Twitter: "首相会見 江川紹子氏 「人流を減らすには具体的にはどれぐらいの人を減らす、人と人との接触の機会を減らすということが、 目標としてあるのか。具体的に何をしていくのか」 菅「車の乗り入れ3割減とテレワークだ。大会に集中する人の、そ… https://t.co/ZoqkLV0V9q"]]></title>
+        <id>https://twitter.com/wanpakuten/status/1421064347212685314</id>
+        <link href="https://twitter.com/wanpakuten/status/1421064347212685314"/>
+        <updated>2021-07-30T14:11:33.000Z</updated>
+        <summary type="html"><![CDATA[首相会見 江川紹子氏 「人流を減らすには具体的にはどれぐらいの人を減らす、人と人との接触の機会を減らすということが、 目標としてあるのか。具体的に何をしていくのか」 菅「車の乗り入れ3割減とテレワークだ。大会に集中する人の、そ… https://t.co/ZoqkLV0V9q]]></summary>
         <author>
-            <name>Luke Edwards</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slinkity]]></title>
-        <id>https://css-tricks.com/?p=345288</id>
-        <link href="https://slinkity.dev/"/>
-        <updated>2021-07-26T14:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …
-The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[高田ゆうき on Twitter: "ワクチン接種でアナフィラキシーになってICUに入った友達の話。 職域が職域なので描いていて、😃！ そんな私は今日が2回目です。 こんなレポート漫画やら「一人暮らし老後どーすんの委員会」漫画やらを月額100円で毎月10枚描いてま… https://t.co/lztqTgRSJJ"]]></title>
+        <id>https://twitter.com/yuhkitakada/status/1420951249428516873</id>
+        <link href="https://twitter.com/yuhkitakada/status/1420951249428516873"/>
+        <updated>2021-07-30T12:25:01.000Z</updated>
+        <summary type="html"><![CDATA[ワクチン接種でアナフィラキシーになってICUに入った友達の話。 職域が職域なので描いていて、😃！ そんな私は今日が2回目です。 こんなレポート漫画やら「一人暮らし老後どーすんの委員会」漫画やらを月額100円で毎月10枚描いてま… https://t.co/lztqTgRSJJ]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gatsby Serverless Functions And The International Space Station]]></title>
-        <id>https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/</id>
-        <link href="https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/"/>
-        <updated>2021-07-26T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).]]></summary>
+        <title type="html"><![CDATA[75万人登録のユーチューバー　物理研究から転身のわけ：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP7X5Q56P7KUTIL039.html</id>
+        <link href="https://www.asahi.com/articles/ASP7X5Q56P7KUTIL039.html"/>
+        <updated>2021-07-30T12:13:26.000Z</updated>
+        <summary type="html"><![CDATA[教育系ユーチューバーとして4年前から活動し、登録者が75万人に達したヨビノリたくみさん（28）。動画投稿を始めたきっかけと、それまでの進路選択について聞きました。「誰もやっていないこと」に挑戦する。そんな大きな目標があるそうです。 「誰もやっていないことを」　ヨビノリたくみの夢　ユーチューブチャンネル...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Features That May Not Work As You’d Expect]]></title>
-        <id>https://css-tricks.com/?p=344019</id>
-        <link href="https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/"/>
-        <updated>2021-07-23T15:12:11.000Z</updated>
-        <summary type="html"><![CDATA[As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…
-The post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[なぜ、東洋の魔女は「非国民」と呼ばれたのか。五輪をめぐる“誹謗中傷”が、彼女たちを追い込んだ]]></title>
+        <id>https://www.buzzfeed.com/jp/kotahatachi/oriental-witches</id>
+        <link href="https://www.buzzfeed.com/jp/kotahatachi/oriental-witches"/>
+        <updated>2021-07-30T08:58:39.000Z</updated>
+        <summary type="html"><![CDATA[1964年の東京五輪で金メダルを取り、伝説的な存在として、いまだ語り継がれている女子バレー日本代表「東洋の魔女」。 菅義偉首相もたびたび思い出話を披露するなど、日本中を熱狂の渦に巻き込んだ彼女たちは、かつて「非国民」という誹謗中傷に晒されたことがあった。 「鬼」とも呼ばれた大松博文監督も、そして選手た...]]></summary>
         <author>
-            <name>Farai Gandiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My petite-vue review]]></title>
-        <id>https://css-tricks.com/?p=345209</id>
-        <link href="https://daverupert.com/2021/07/petite-vue-review/"/>
-        <updated>2021-07-23T15:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Dave:
-petite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps 
-…
-The post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Attracting Clients To Your Agency]]></title>
-        <id>https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/</id>
-        <link href="https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/"/>
-        <updated>2021-07-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Time To Your Schedule As A Professional]]></title>
-        <id>https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/</id>
-        <link href="https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/"/>
-        <updated>2021-07-22T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Tools And Resources]]></title>
-        <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
-        <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
-        <updated>2021-07-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
-        <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
-        <updated>2021-07-20T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alba Silvente)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maintaining End-To-End Quality With Visual Testing]]></title>
-        <id>https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</id>
-        <link href="https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/"/>
-        <updated>2021-07-19T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Colby Fayock)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
-        <updated>2021-07-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISR vs DPR: Big Words, Quick Explanation]]></title>
-        <id>https://smashingmagazine.com/2021/07/isr-dpr-explained/</id>
-        <link href="https://smashingmagazine.com/2021/07/isr-dpr-explained/"/>
-        <updated>2021-07-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cassidy Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Do That With A JavaScript Data Grid?]]></title>
-        <id>https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/</id>
-        <link href="https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/"/>
-        <updated>2021-07-15T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
-        <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
-        <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
-        <updated>2021-07-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Dynamic Header With Intersection Observer]]></title>
-        <id>https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</id>
-        <link href="https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/"/>
-        <updated>2021-07-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Migrate From jQuery To Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/"/>
-        <updated>2021-07-13T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refactoring CSS: Introduction (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</id>
-        <link href="https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/"/>
-        <updated>2021-07-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making A Strong Case For Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/strong-case-for-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/strong-case-for-accessibility/"/>
-        <updated>2021-07-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Todd Libby)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
-        <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
-        <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
-        <updated>2021-07-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Uma Victor)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
-        <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
-        <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
-        <updated>2021-07-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Choose A Headless CMS]]></title>
-        <id>https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/</id>
-        <link href="https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/"/>
-        <updated>2021-07-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
-        <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
-        <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
-        <updated>2021-07-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
-        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
-        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
-        <updated>2021-07-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
 </feed>
