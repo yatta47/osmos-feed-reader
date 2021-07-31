@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatta47.github.io/osmos-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T13:58:20.435Z</updated>
+    <updated>2021-07-31T14:02:35.683Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://yatta47.github.io/osmos-feed-reader/index.html"/>
     <link rel="self" href="https://yatta47.github.io/osmos-feed-reader/feed.atom"/>

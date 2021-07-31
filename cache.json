@@ -478,6 +478,12 @@
           "title": "Dockerfile・BuildKit・<b>Docker</b> Buildxの最新バージョンがリリース"
         }
       ]
+    },
+    {
+      "title": "Google アラート - コスト監視 AWS",
+      "feedUrl": "https://www.google.co.jp/alerts/feeds/11666000284305127907/4629369678329997162",
+      "siteUrl": "https://www.google.com/alerts/feeds/11666000284305127907/4629369678329997162",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"
