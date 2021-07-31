@@ -280,6 +280,202 @@
           "publishedOn": "2021-07-30T08:58:39.000Z",
           "wordCount": 171,
           "title": "なぜ、東洋の魔女は「非国民」と呼ばれたのか。五輪をめぐる“誹謗中傷”が、彼女たちを追い込んだ"
+        },
+        {
+          "id": "https://qiita.com/myabu/items/89797cddfa7225ff2b5d",
+          "author": null,
+          "description": "しかし、Dockerのドキュメントhttps://docs.docker.com/get-started/07_multi_container/ には While using env vars to set connection settings is generally ok for development, it is HIGHLY DISCOURAGED when running applications in production. Diogo Monica, the former lead of security at Docker, wrote a ...",
+          "link": "https://qiita.com/myabu/items/89797cddfa7225ff2b5d",
+          "publishedOn": "2021-07-19T13:13:54.000Z",
+          "wordCount": 458,
+          "title": "Docker Composeの環境変数ではなくsecretsで秘密情報を扱う - Qiita"
+        }
+      ]
+    },
+    {
+      "title": "Google アラート - docker",
+      "feedUrl": "https://www.google.co.jp/alerts/feeds/11666000284305127907/2576148698163635230",
+      "siteUrl": "https://www.google.com/alerts/feeds/11666000284305127907/2576148698163635230",
+      "articles": [
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://b.hatena.ne.jp/entry/s/zenn.dev/tyamahori/articles/61a25b58a35ac5&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNEeECKhpNiOWj4mKgPez43F0scW8Q",
+          "author": null,
+          "description": "aa_R_waiwai しかしLinuxのコアを使う技術なのに、一応はLinuxがベースになってる（要出典）Macでの使い勝手が、Windowsより劣るってのは、何 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://b.hatena.ne.jp/entry/s/zenn.dev/tyamahori/articles/61a25b58a35ac5&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNEeECKhpNiOWj4mKgPez43F0scW8Q",
+          "publishedOn": "2021-07-31T12:21:16.000Z",
+          "wordCount": 5,
+          "title": "<b>Docker</b> Desktop on Mac の遅さはしばらくは改善しなさそうです。"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=http://mjlp.siracusacinquestelle.it/omv-portainer.html&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNGbTYuOnWXzGQsIdq_NoO-OWDUszA",
+          "author": null,
+          "description": "It works with Kubernetes, Docker, Docker Swarm, Azure ACI in both data centres and at the edge. The container will connect directly to the Docker host ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://mjlp.siracusacinquestelle.it/omv-portainer.html&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNGbTYuOnWXzGQsIdq_NoO-OWDUszA",
+          "publishedOn": "2021-07-31T12:15:26.000Z",
+          "wordCount": 5,
+          "title": "Omv Portainer"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=http://crda.kosciuszkoreaktywacja.pl/docker-aws-ssm.html&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNGGE9p-9_zReQtYAjKkPCptMjfkhw",
+          "author": null,
+          "description": "That's greek for how you get docker containers running in the cloud. aws_ssm - Get the value for a SSM parameter or all parameters under a path.",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://crda.kosciuszkoreaktywacja.pl/docker-aws-ssm.html&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNGGE9p-9_zReQtYAjKkPCptMjfkhw",
+          "publishedOn": "2021-07-31T08:38:09.000Z",
+          "wordCount": 5,
+          "title": "<b>Docker</b> aws ssm"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=http://adbm.lineaigiene.it/docker-amd-cpu.html&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNE6fOXsTsoNIVQNiOw7nYOq7Wwl9Q",
+          "author": null,
+          "description": "Docker • Docker is an open source project • Systematic way to automate the faster deployment of Linux applications inside portable containers • Docker ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://adbm.lineaigiene.it/docker-amd-cpu.html&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNE6fOXsTsoNIVQNiOw7nYOq7Wwl9Q",
+          "publishedOn": "2021-07-31T07:00:59.000Z",
+          "wordCount": 5,
+          "title": "<b>Docker</b> Amd Cpu"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://itpc-media.net/%3Fp%3D359035&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNFmpnb2LMfe8rBOLE3KCoWBgnl2bg",
+          "author": null,
+          "description": "Docker Desktop on Mac の遅さはしばらくは改善しなさそうです。こんにちは。tyamahoriです。 突然ですが、Dockerはお好きですか？僕は大好き ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://itpc-media.net/%3Fp%3D359035&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNFmpnb2LMfe8rBOLE3KCoWBgnl2bg",
+          "publishedOn": "2021-07-31T05:35:49.000Z",
+          "wordCount": 5,
+          "title": "<b>Docker</b> Desktop on Mac の遅さはしばらくは改善しなさそうです。 | スマートフォン・IT情報メディア"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=http://www.izumiotsu-ed.jp/nexus7-2012-root-%25E9%259D%259Eroot&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNEqQWMBRnKEG_DUT_7ylSp4gphp6A",
+          "author": null,
+          "description": "シンカン ドリンク バッチ docker 容器无root 权限，如何获得docker容器里面的root权限_weixin_33827965的博客-CSDN博客 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.izumiotsu-ed.jp/nexus7-2012-root-%25E9%259D%259Eroot&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNEqQWMBRnKEG_DUT_7ylSp4gphp6A",
+          "publishedOn": "2021-07-31T05:34:24.000Z",
+          "wordCount": 5,
+          "title": "くしゃくしゃ 実験室 畝間 nexus7 2012 root 非root - izumiotsu-ed.jp"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://itpc-media.net/%3Fp%3D358990&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNEsX-xin4IlQvXh8r9kC7q0GvDJ0g",
+          "author": null,
+          "description": "Introduction to heredocs in Dockerfiles - Docker BlogGuest post by Docker Community Member Justin Chadell. This post or.",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://itpc-media.net/%3Fp%3D358990&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNEsX-xin4IlQvXh8r9kC7q0GvDJ0g",
+          "publishedOn": "2021-07-31T03:07:35.000Z",
+          "wordCount": 5,
+          "title": "Introduction to heredocs in Dockerfiles – <b>Docker</b> Blog | スマートフォン・IT情報メディア"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://menta.work/bosyu/4990&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNHm9GsvGPZnNkCyqpp4qZxeAxEk4g",
+          "author": null,
+          "description": "就活用のオリジナルアプリケーションを作成してみようという段階です。 DockerやCI/CDを活用してみたいと思い、調べながらやってみたものの、",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://menta.work/bosyu/4990&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNHm9GsvGPZnNkCyqpp4qZxeAxEk4g",
+          "publishedOn": "2021-07-31T02:35:07.000Z",
+          "wordCount": 5,
+          "title": "<b>Docker</b>、CI/CDを活用して就活用ポートフォリオを作成したい。｜MENTA「教えたい人」"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://nakawork.net/posts/plantuml-with-docker&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNF3GAeUrE_tZQVw97HfRuLP3JfqIQ",
+          "author": null,
+          "description": "PlantUmlをもっと気軽に、例えばPCを変えてもサクッと構築できるようにdockerを使ってvscode+PlantUMLの環境構築をしてみることにします。",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://nakawork.net/posts/plantuml-with-docker&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNF3GAeUrE_tZQVw97HfRuLP3JfqIQ",
+          "publishedOn": "2021-07-31T00:46:16.000Z",
+          "wordCount": 5,
+          "title": "<b>docker</b>で簡単にvscode+PlantUMLの環境構築をする | 中野&#39;s workspace"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://niwakatech.info/windows-android-studio-flutter/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNGjmOy-UaAIqbNHyexr-OCrPkJBkw",
+          "author": null,
+          "description": "あんまり考えてもなので使いなれてるDjangoかFirebaseあたりにしようと思います。 docker-composeでDjango×MySQL×Nginx環境構築. Docker初心者 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://niwakatech.info/windows-android-studio-flutter/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNGjmOy-UaAIqbNHyexr-OCrPkJBkw",
+          "publishedOn": "2021-07-30T23:46:57.000Z",
+          "wordCount": 5,
+          "title": "WindowsでAndroid Studio × Flutter環境構築をする方法＋VSCodeプラグイン導入 | EBlog"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=http://www.ryodan.jp/docker-volumes-etc-httpd-conf.d&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNG7m2KpxgY5pe4fk-AlLcb9AaymYw",
+          "author": null,
+          "description": "ポルティコ 軽食 セメント Getting started with docker (10) Use docker to build a LAMP (php5+mysql+apache2) integrated environment - Programmer ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.ryodan.jp/docker-volumes-etc-httpd-conf.d&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNG7m2KpxgY5pe4fk-AlLcb9AaymYw",
+          "publishedOn": "2021-07-30T22:18:12.000Z",
+          "wordCount": 5,
+          "title": "アッパー 高架 瞳 <b>docker</b> volumes etc httpd conf.d - ryodan.jp"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/linuxtools/update-oxygen-2-docker/features/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNE8ZarFzwlGyS6sgoA66L3uQi1ocQ",
+          "author": null,
+          "description": "Index of /pub/eclipse/linuxtools/update-oxygen-2-docker/features. Icon Name Last modified Size Description. [PARENTDIR] Parent Directory - [ ] ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/linuxtools/update-oxygen-2-docker/features/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNE8ZarFzwlGyS6sgoA66L3uQi1ocQ",
+          "publishedOn": "2021-07-30T21:55:44.000Z",
+          "wordCount": 5,
+          "title": "Index of /pub/eclipse/linuxtools/update-oxygen-2-<b>docker</b>/features"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://securetpnews.info/2021/07/30/%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E5%25B8%2582%25E5%25A0%25B4%25E3%2581%25AE/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNE8kpdvmOPYz8fmQK-_V-CyRD4Gjw",
+          "author": null,
+          "description": "コンテナオーケストレーション市場の確立されたプレーヤーの一部を以下に示します。 AW グーグルマイクロソフト. Docker 中間圏ランチャーラボ",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://securetpnews.info/2021/07/30/%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E5%25B8%2582%25E5%25A0%25B4%25E3%2581%25AE/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNE8kpdvmOPYz8fmQK-_V-CyRD4Gjw",
+          "publishedOn": "2021-07-30T18:21:55.000Z",
+          "wordCount": 5,
+          "title": "グローバルコンテナオーケストレーション市場の広範な分析2021-2027（COVID-19 Impact）キー ..."
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.hbss.co.jp/awano-2/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNHpqPS85JkknTp5aLfBzDPp_-peIQ",
+          "author": null,
+          "description": "HBSS 所属の Awano です。こちらは前回のブログのタイトルの続きとなります。 第2回は、 docker-compose.yml による nginx ( default.conf ) の設定 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hbss.co.jp/awano-2/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNHpqPS85JkknTp5aLfBzDPp_-peIQ",
+          "publishedOn": "2021-07-30T17:41:08.000Z",
+          "wordCount": 5,
+          "title": "入社して初めてのプロジェクトで <b>docker</b>-compose.yml を使い、Laravel の開発環境を構築してみた ..."
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://zenn.dev/chida/articles/51ba4ec06a0724&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNHn4JyvYIMPHtZznCWq237rzlh8Wg",
+          "author": null,
+          "description": "その中でも、Dockerのコンテナ用によく使われる軽量LinuxディストリビューションのAlpine Linuxを使います。 今回は、node:14.17.1-alpineを使う ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://zenn.dev/chida/articles/51ba4ec06a0724&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNHn4JyvYIMPHtZznCWq237rzlh8Wg",
+          "publishedOn": "2021-07-30T16:25:59.000Z",
+          "wordCount": 5,
+          "title": "【React】<b>Docker</b> Composeで開発環境を構築"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://qiita.com/amoon1187/items/0f09127319458ece29ce&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNG_01uQb_xmY3NupOCtbREcOLlCfQ",
+          "author": null,
+          "description": "【予定】Dockerの仕組み. Docker. Dockerの概要についてまとめるつもりです。",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://qiita.com/amoon1187/items/0f09127319458ece29ce&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNG_01uQb_xmY3NupOCtbREcOLlCfQ",
+          "publishedOn": "2021-07-30T15:52:39.000Z",
+          "wordCount": 5,
+          "title": "【予定】<b>Docker</b>の仕組み - Qiita"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://qiita.com/kumanobori/items/eafb063bb8a68a9095a0&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNFRKN5uI7uuPQXruIyWt-VWnAOs2g",
+          "author": null,
+          "description": "対象環境. VSCode on Windows WSL2 + Docker Desktop、またはvagrant + docker. 前提. dockerコンテナでphpプログラムが動いてる ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://qiita.com/kumanobori/items/eafb063bb8a68a9095a0&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNFRKN5uI7uuPQXruIyWt-VWnAOs2g",
+          "publishedOn": "2021-07-30T15:16:23.000Z",
+          "wordCount": 5,
+          "title": "vscodeで<b>docker</b>に接続してxdebugでphpデバッグ - Qiita"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://techmania.jp/blog/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNHfI5WbGdW0pjF-uo2UVe3WuLIDNw",
+          "author": null,
+          "description": "AWS AutoScaling 設定手順 冗長化と運用コスト削減 · Docker · Docker-Compose を使った環境構築手順まとめ · Mobile ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://techmania.jp/blog/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNHfI5WbGdW0pjF-uo2UVe3WuLIDNw",
+          "publishedOn": "2021-07-30T11:21:48.000Z",
+          "wordCount": 5,
+          "title": "TechMania 現役プログラマの技術ブログ"
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://securetpnews.info/2021/07/30/devops%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E5%25B8%2582%25E5%25A0%25B42021%25E5%25B9%25B4%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E5%25B0%2586%25E6%259D%25A5%25E3%2581%25AE%25E6%2588%2590%25E9%2595%25B7%25E3%2580%2581%25E4%25B8%25BB/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNF9CCaPh79yhYptsgiCfoMWh6wE6w",
+          "author": null,
+          "description": "... Communications plc、Chef、Docker Inc.、Terraform、Puppet Labs. 競争分析. このレポートでは、主要な主要プレーヤーの浮き沈みを検証します。",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://securetpnews.info/2021/07/30/devops%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E5%25B8%2582%25E5%25A0%25B42021%25E5%25B9%25B4%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E5%25B0%2586%25E6%259D%25A5%25E3%2581%25AE%25E6%2588%2590%25E9%2595%25B7%25E3%2580%2581%25E4%25B8%25BB/&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNF9CCaPh79yhYptsgiCfoMWh6wE6w",
+          "publishedOn": "2021-07-30T10:18:45.000Z",
+          "wordCount": 5,
+          "title": "DevOpsプラットフォーム市場2021年世界の将来の成長、主要プレーヤーおよび2027年までの予測 ..."
+        },
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://codezine.jp/article/detail/14625&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNG9VGPpy0Iw4b5d4gy-sOjjx6XRBQ",
+          "author": null,
+          "description": "米Dockerは、「BuildKit 0.9.0」「Docker Buildx 0.6.0」「Dockerfile 1.3.0」「Dockerfile 1.3.0-labs」を、7月16日（現地時間）にリリースした。",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://codezine.jp/article/detail/14625&ct=ga&cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&usg=AFQjCNG9VGPpy0Iw4b5d4gy-sOjjx6XRBQ",
+          "publishedOn": "2021-07-30T09:00:00.000Z",
+          "wordCount": 5,
+          "title": "Dockerfile・BuildKit・<b>Docker</b> Buildxの最新バージョンがリリース"
         }
       ]
     }

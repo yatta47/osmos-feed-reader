@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatta47.github.io/osmos-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T13:51:06.465Z</updated>
+    <updated>2021-07-31T13:58:20.435Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://yatta47.github.io/osmos-feed-reader/index.html"/>
     <link rel="self" href="https://yatta47.github.io/osmos-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[<b>Docker</b> Desktop on Mac の遅さはしばらくは改善しなさそうです。]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://b.hatena.ne.jp/entry/s/zenn.dev/tyamahori/articles/61a25b58a35ac5&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNEeECKhpNiOWj4mKgPez43F0scW8Q</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://b.hatena.ne.jp/entry/s/zenn.dev/tyamahori/articles/61a25b58a35ac5&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNEeECKhpNiOWj4mKgPez43F0scW8Q"/>
+        <updated>2021-07-31T12:21:16.000Z</updated>
+        <summary type="html"><![CDATA[aa_R_waiwai しかしLinuxのコアを使う技術なのに、一応はLinuxがベースになってる（要出典）Macでの使い勝手が、Windowsより劣るってのは、何 ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omv Portainer]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://mjlp.siracusacinquestelle.it/omv-portainer.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNGbTYuOnWXzGQsIdq_NoO-OWDUszA</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://mjlp.siracusacinquestelle.it/omv-portainer.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNGbTYuOnWXzGQsIdq_NoO-OWDUszA"/>
+        <updated>2021-07-31T12:15:26.000Z</updated>
+        <summary type="html"><![CDATA[It works with Kubernetes, Docker, Docker Swarm, Azure ACI in both data centres and at the edge. The container will connect directly to the Docker host ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナウイルス感染症　自宅療養中の方へ　東京都福祉保健局]]></title>
         <id>https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/corona_portal/shien/zitakuryouyouhandbook.html</id>
@@ -67,6 +87,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<b>Docker</b> aws ssm]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://crda.kosciuszkoreaktywacja.pl/docker-aws-ssm.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNGGE9p-9_zReQtYAjKkPCptMjfkhw</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://crda.kosciuszkoreaktywacja.pl/docker-aws-ssm.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNGGE9p-9_zReQtYAjKkPCptMjfkhw"/>
+        <updated>2021-07-31T08:38:09.000Z</updated>
+        <summary type="html"><![CDATA[That's greek for how you get docker containers running in the cloud. aws_ssm - Get the value for a SSM parameter or all parameters under a path.]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[東京都内で在宅勤務してるけど、一般人のコロナ慣れがヤバい]]></title>
         <id>https://anond.hatelabo.jp/20210729190251</id>
         <link href="https://anond.hatelabo.jp/20210729190251"/>
@@ -107,6 +137,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<b>Docker</b> Amd Cpu]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://adbm.lineaigiene.it/docker-amd-cpu.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE6fOXsTsoNIVQNiOw7nYOq7Wwl9Q</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://adbm.lineaigiene.it/docker-amd-cpu.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE6fOXsTsoNIVQNiOw7nYOq7Wwl9Q"/>
+        <updated>2021-07-31T07:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Docker • Docker is an open source project • Systematic way to automate the faster deployment of Linux applications inside portable containers • Docker ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[職域接種の供給遅れ 健保組合でキャンセル料4000万円負担も | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210731/k10013172581000.html"/>
@@ -137,6 +177,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<b>Docker</b> Desktop on Mac の遅さはしばらくは改善しなさそうです。 | スマートフォン・IT情報メディア]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://itpc-media.net/%3Fp%3D359035&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFmpnb2LMfe8rBOLE3KCoWBgnl2bg</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://itpc-media.net/%3Fp%3D359035&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFmpnb2LMfe8rBOLE3KCoWBgnl2bg"/>
+        <updated>2021-07-31T05:35:49.000Z</updated>
+        <summary type="html"><![CDATA[Docker Desktop on Mac の遅さはしばらくは改善しなさそうです。こんにちは。tyamahoriです。 突然ですが、Dockerはお好きですか？僕は大好き ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[くしゃくしゃ 実験室 畝間 nexus7 2012 root 非root - izumiotsu-ed.jp]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://www.izumiotsu-ed.jp/nexus7-2012-root-%25E9%259D%259Eroot&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNEqQWMBRnKEG_DUT_7ylSp4gphp6A</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://www.izumiotsu-ed.jp/nexus7-2012-root-%25E9%259D%259Eroot&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNEqQWMBRnKEG_DUT_7ylSp4gphp6A"/>
+        <updated>2021-07-31T05:34:24.000Z</updated>
+        <summary type="html"><![CDATA[シンカン ドリンク バッチ docker 容器无root 权限，如何获得docker容器里面的root权限_weixin_33827965的博客-CSDN博客 ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[chocolat. on Twitter: "【注意喚起】 作家の竹田恒泰氏が当アカウントを名指しし、氏名や居住地域とされる情報を繰り返しツイートし拡散を呼びかけるという事案が発生しました。 公開に同意していない他者の氏名・住所・セクシュアリティ等を暴露するような行為は重大… https://t.co/02hN3AykrG"]]></title>
         <id>https://twitter.com/chocolat_psyder/status/1421325311598202881</id>
         <link href="https://twitter.com/chocolat_psyder/status/1421325311598202881"/>
@@ -164,6 +224,26 @@
         <summary type="html"><![CDATA[全国で新型コロナの第5波に見舞われており、特に関東ではこれまでで最大規模の流行となっています。 第5波の特徴として感染者数に占める重症者の割合が少ないことが挙げられますが、だからといって決して安心できるものではありません。 東京都の新規感染者数は第3波のピークを超えさらに増加東京都の新型コロナ新規感染...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to heredocs in Dockerfiles – <b>Docker</b> Blog | スマートフォン・IT情報メディア]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://itpc-media.net/%3Fp%3D358990&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNEsX-xin4IlQvXh8r9kC7q0GvDJ0g</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://itpc-media.net/%3Fp%3D358990&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNEsX-xin4IlQvXh8r9kC7q0GvDJ0g"/>
+        <updated>2021-07-31T03:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to heredocs in Dockerfiles - Docker BlogGuest post by Docker Community Member Justin Chadell. This post or.]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<b>Docker</b>、CI/CDを活用して就活用ポートフォリオを作成したい。｜MENTA「教えたい人」]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://menta.work/bosyu/4990&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHm9GsvGPZnNkCyqpp4qZxeAxEk4g</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://menta.work/bosyu/4990&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHm9GsvGPZnNkCyqpp4qZxeAxEk4g"/>
+        <updated>2021-07-31T02:35:07.000Z</updated>
+        <summary type="html"><![CDATA[就活用のオリジナルアプリケーションを作成してみようという段階です。 DockerやCI/CDを活用してみたいと思い、調べながらやってみたものの、]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
         </author>
     </entry>
     <entry>
@@ -227,6 +307,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<b>docker</b>で簡単にvscode+PlantUMLの環境構築をする | 中野&#39;s workspace]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://nakawork.net/posts/plantuml-with-docker&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNF3GAeUrE_tZQVw97HfRuLP3JfqIQ</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://nakawork.net/posts/plantuml-with-docker&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNF3GAeUrE_tZQVw97HfRuLP3JfqIQ"/>
+        <updated>2021-07-31T00:46:16.000Z</updated>
+        <summary type="html"><![CDATA[PlantUmlをもっと気軽に、例えばPCを変えてもサクッと構築できるようにdockerを使ってvscode+PlantUMLの環境構築をしてみることにします。]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WindowsでAndroid Studio × Flutter環境構築をする方法＋VSCodeプラグイン導入 | EBlog]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://niwakatech.info/windows-android-studio-flutter/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNGjmOy-UaAIqbNHyexr-OCrPkJBkw</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://niwakatech.info/windows-android-studio-flutter/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNGjmOy-UaAIqbNHyexr-OCrPkJBkw"/>
+        <updated>2021-07-30T23:46:57.000Z</updated>
+        <summary type="html"><![CDATA[あんまり考えてもなので使いなれてるDjangoかFirebaseあたりにしようと思います。 docker-composeでDjango×MySQL×Nginx環境構築. Docker初心者 ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アッパー 高架 瞳 <b>docker</b> volumes etc httpd conf.d - ryodan.jp]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://www.ryodan.jp/docker-volumes-etc-httpd-conf.d&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG7m2KpxgY5pe4fk-AlLcb9AaymYw</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://www.ryodan.jp/docker-volumes-etc-httpd-conf.d&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG7m2KpxgY5pe4fk-AlLcb9AaymYw"/>
+        <updated>2021-07-30T22:18:12.000Z</updated>
+        <summary type="html"><![CDATA[ポルティコ 軽食 セメント Getting started with docker (10) Use docker to build a LAMP (php5+mysql+apache2) integrated environment - Programmer ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小池知事「この夏を最後のステイホームに」　東京の緊急事態を延長、新たな対策はなし：東京新聞 TOKYO Web]]></title>
         <id>https://www.tokyo-np.co.jp/article/120694</id>
         <link href="https://www.tokyo-np.co.jp/article/120694"/>
@@ -234,6 +344,16 @@
         <summary type="html"><![CDATA[東京都は３０日、新型コロナウイルス対策の緊急事態宣言が８月末まで延長されるのに伴い、対策本部会議を開き、延長後も引き続き飲食店に酒類提供停止を要請する感染防止策を決定した。小池百合子知事は「これ以上の感染拡大を食い止めなければならない」と強調。一方で、当面の感染急増を抑えるための新たな措置は盛り...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Index of /pub/eclipse/linuxtools/update-oxygen-2-<b>docker</b>/features]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/linuxtools/update-oxygen-2-docker/features/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE8ZarFzwlGyS6sgoA66L3uQi1ocQ</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/linuxtools/update-oxygen-2-docker/features/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE8ZarFzwlGyS6sgoA66L3uQi1ocQ"/>
+        <updated>2021-07-30T21:55:44.000Z</updated>
+        <summary type="html"><![CDATA[Index of /pub/eclipse/linuxtools/update-oxygen-2-docker/features. Icon Name Last modified Size Description. [PARENTDIR] Parent Directory - [ ] ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
         </author>
     </entry>
     <entry>
@@ -254,6 +374,56 @@
         <summary type="html"><![CDATA[緊急事態宣言の拡大と延長が決まった。東京五輪の期間中に新型コロナの感染爆発に至り、感染の高波が収まる兆しはない。だが、菅義偉首相は五輪開催で人の流れは減っているとの見方を繰り返した。首相周辺では、近く感染状況が改善するとの楽観シナリオが語られている。 宣言の拡大などを決めた後、首相は官邸で記者会見...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グローバルコンテナオーケストレーション市場の広範な分析2021-2027（COVID-19 Impact）キー ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://securetpnews.info/2021/07/30/%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E5%25B8%2582%25E5%25A0%25B4%25E3%2581%25AE/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE8kpdvmOPYz8fmQK-_V-CyRD4Gjw</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://securetpnews.info/2021/07/30/%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E5%25B8%2582%25E5%25A0%25B4%25E3%2581%25AE/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE8kpdvmOPYz8fmQK-_V-CyRD4Gjw"/>
+        <updated>2021-07-30T18:21:55.000Z</updated>
+        <summary type="html"><![CDATA[コンテナオーケストレーション市場の確立されたプレーヤーの一部を以下に示します。 AW グーグルマイクロソフト. Docker 中間圏ランチャーラボ]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[入社して初めてのプロジェクトで <b>docker</b>-compose.yml を使い、Laravel の開発環境を構築してみた ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.hbss.co.jp/awano-2/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHpqPS85JkknTp5aLfBzDPp_-peIQ</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.hbss.co.jp/awano-2/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHpqPS85JkknTp5aLfBzDPp_-peIQ"/>
+        <updated>2021-07-30T17:41:08.000Z</updated>
+        <summary type="html"><![CDATA[HBSS 所属の Awano です。こちらは前回のブログのタイトルの続きとなります。 第2回は、 docker-compose.yml による nginx ( default.conf ) の設定 ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【React】<b>Docker</b> Composeで開発環境を構築]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://zenn.dev/chida/articles/51ba4ec06a0724&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHn4JyvYIMPHtZznCWq237rzlh8Wg</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://zenn.dev/chida/articles/51ba4ec06a0724&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHn4JyvYIMPHtZznCWq237rzlh8Wg"/>
+        <updated>2021-07-30T16:25:59.000Z</updated>
+        <summary type="html"><![CDATA[その中でも、Dockerのコンテナ用によく使われる軽量LinuxディストリビューションのAlpine Linuxを使います。 今回は、node:14.17.1-alpineを使う ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【予定】<b>Docker</b>の仕組み - Qiita]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://qiita.com/amoon1187/items/0f09127319458ece29ce&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG_01uQb_xmY3NupOCtbREcOLlCfQ</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://qiita.com/amoon1187/items/0f09127319458ece29ce&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG_01uQb_xmY3NupOCtbREcOLlCfQ"/>
+        <updated>2021-07-30T15:52:39.000Z</updated>
+        <summary type="html"><![CDATA[【予定】Dockerの仕組み. Docker. Dockerの概要についてまとめるつもりです。]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vscodeで<b>docker</b>に接続してxdebugでphpデバッグ - Qiita]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://qiita.com/kumanobori/items/eafb063bb8a68a9095a0&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFRKN5uI7uuPQXruIyWt-VWnAOs2g</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://qiita.com/kumanobori/items/eafb063bb8a68a9095a0&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFRKN5uI7uuPQXruIyWt-VWnAOs2g"/>
+        <updated>2021-07-30T15:16:23.000Z</updated>
+        <summary type="html"><![CDATA[対象環境. VSCode on Windows WSL2 + Docker Desktop、またはvagrant + docker. 前提. dockerコンテナでphpプログラムが動いてる ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
         </author>
     </entry>
     <entry>
@@ -297,11 +467,51 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TechMania 現役プログラマの技術ブログ]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techmania.jp/blog/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHfI5WbGdW0pjF-uo2UVe3WuLIDNw</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techmania.jp/blog/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHfI5WbGdW0pjF-uo2UVe3WuLIDNw"/>
+        <updated>2021-07-30T11:21:48.000Z</updated>
+        <summary type="html"><![CDATA[AWS AutoScaling 設定手順 冗長化と運用コスト削減 · Docker · Docker-Compose を使った環境構築手順まとめ · Mobile ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOpsプラットフォーム市場2021年世界の将来の成長、主要プレーヤーおよび2027年までの予測 ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://securetpnews.info/2021/07/30/devops%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E5%25B8%2582%25E5%25A0%25B42021%25E5%25B9%25B4%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E5%25B0%2586%25E6%259D%25A5%25E3%2581%25AE%25E6%2588%2590%25E9%2595%25B7%25E3%2580%2581%25E4%25B8%25BB/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNF9CCaPh79yhYptsgiCfoMWh6wE6w</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://securetpnews.info/2021/07/30/devops%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E5%25B8%2582%25E5%25A0%25B42021%25E5%25B9%25B4%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25AE%25E5%25B0%2586%25E6%259D%25A5%25E3%2581%25AE%25E6%2588%2590%25E9%2595%25B7%25E3%2580%2581%25E4%25B8%25BB/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNF9CCaPh79yhYptsgiCfoMWh6wE6w"/>
+        <updated>2021-07-30T10:18:45.000Z</updated>
+        <summary type="html"><![CDATA[... Communications plc、Chef、Docker Inc.、Terraform、Puppet Labs. 競争分析. このレポートでは、主要な主要プレーヤーの浮き沈みを検証します。]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dockerfile・BuildKit・<b>Docker</b> Buildxの最新バージョンがリリース]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://codezine.jp/article/detail/14625&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG9VGPpy0Iw4b5d4gy-sOjjx6XRBQ</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://codezine.jp/article/detail/14625&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG9VGPpy0Iw4b5d4gy-sOjjx6XRBQ"/>
+        <updated>2021-07-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Dockerは、「BuildKit 0.9.0」「Docker Buildx 0.6.0」「Dockerfile 1.3.0」「Dockerfile 1.3.0-labs」を、7月16日（現地時間）にリリースした。]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[なぜ、東洋の魔女は「非国民」と呼ばれたのか。五輪をめぐる“誹謗中傷”が、彼女たちを追い込んだ]]></title>
         <id>https://www.buzzfeed.com/jp/kotahatachi/oriental-witches</id>
         <link href="https://www.buzzfeed.com/jp/kotahatachi/oriental-witches"/>
         <updated>2021-07-30T08:58:39.000Z</updated>
         <summary type="html"><![CDATA[1964年の東京五輪で金メダルを取り、伝説的な存在として、いまだ語り継がれている女子バレー日本代表「東洋の魔女」。 菅義偉首相もたびたび思い出話を披露するなど、日本中を熱狂の渦に巻き込んだ彼女たちは、かつて「非国民」という誹謗中傷に晒されたことがあった。 「鬼」とも呼ばれた大松博文監督も、そして選手た...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Composeの環境変数ではなくsecretsで秘密情報を扱う - Qiita]]></title>
+        <id>https://qiita.com/myabu/items/89797cddfa7225ff2b5d</id>
+        <link href="https://qiita.com/myabu/items/89797cddfa7225ff2b5d"/>
+        <updated>2021-07-19T13:13:54.000Z</updated>
+        <summary type="html"><![CDATA[しかし、Dockerのドキュメントhttps://docs.docker.com/get-started/07_multi_container/ には While using env vars to set connection settings is generally ok for development, it is HIGHLY DISCOURAGED when running applications in production. Diogo Monica, the former lead of security at Docker, wrote a ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
