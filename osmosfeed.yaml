@@ -1,7 +1,5 @@
 cacheUrl: https://yatta47.github.io/osmos-feed-reader/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-#   - href: https://css-tricks.com/feed/
-#   - href: https://www.smashingmagazine.com/feed/
-#   - href: https://www.freecodecamp.org/news/rss/
   - href: https://b.hatena.ne.jp/hotentry.rss
+  - href: https://www.google.co.jp/alerts/feeds/11666000284305127907/2576148698163635230
