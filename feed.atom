@@ -2,10 +2,500 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatta47.github.io/osmos-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T00:23:08.052Z</updated>
+    <updated>2021-08-11T00:28:28.375Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://yatta47.github.io/osmos-feed-reader/index.html"/>
     <link rel="self" href="https://yatta47.github.io/osmos-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ワクチン接種進み具合 「遅い」75％「順調」18％ NHK世論調査 | 選挙 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210811/k10013193041000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210811/k10013193041000.html"/>
+        <updated>2021-08-10T20:57:53.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスのワクチン接種の進み具合についてNHKの世論調査で聞いたところ、「順調だ」と答えた人は18％で、「遅い」と答えた人が75％でした。 NHKは、今月7日から3日間、全国の18歳以上を対象にコンピューターで無作為に発生させた固定電話と携帯電話の番号に電話をかける「RDD」という方法で世論調査を行いま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【識者の眼】「COVID-19に対するイベルメクチンの現時点のEBM」倉原 優｜Web医事新報|日本医事新報社]]></title>
+        <id>https://www.jmedj.co.jp/journal/paper/detail.php?id=17787</id>
+        <link href="https://www.jmedj.co.jp/journal/paper/detail.php?id=17787"/>
+        <updated>2021-08-10T19:41:29.000Z</updated>
+        <summary type="html"><![CDATA[この1年、SNSで論争が繰り広げられているテーマの1つに「新型コロナウイルス感染症（COVID-19）に対するイベルメクチン」がある。先に書いておくが、2021年8月9日時点での結論としては、コクランレビューによれば「COVID-19の予防・治療に対する使用を支持しない」というのがユニバーサルコンセンサスである1）。 この一...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armbian <b>docker</b> ce]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://ntqw.zdrowieje.pl/armbian-docker-ce.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFVM3YHjjszVub_pK3x_jtqAIp0Ww</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://ntqw.zdrowieje.pl/armbian-docker-ce.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFVM3YHjjszVub_pK3x_jtqAIp0Ww"/>
+        <updated>2021-08-10T17:13:40.000Z</updated>
+        <summary type="html"><![CDATA[NanoPi R2S 使用RK3328 CPU，有两个千兆网络，1G DDR4内存，友善电子团队为NanoPi R2S专门移植了OpenWrt系统，支持Docker CE, 完全开源， ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vscode remote <b>docker</b>]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://zgqnt.businessnetworking.pl/vscode-remote-docker.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG2tWBZXJY6I3EQ7Qf8xFUuDDfT8w</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://zgqnt.businessnetworking.pl/vscode-remote-docker.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG2tWBZXJY6I3EQ7Qf8xFUuDDfT8w"/>
+        <updated>2021-08-10T16:25:24.000Z</updated>
+        <summary type="html"><![CDATA[而 Remote Containers 插件就有点鸡肋，连到 Docker 容器中好像也没什么大的意义。 vscode vscode-remote ide remote-work development-environment ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust nightly <b>docker</b>]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fbor.jubilergryf.pl/rust-nightly-docker.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNH1VpzbrZWLtyLy5oUJ6-o1FpkVyw</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fbor.jubilergryf.pl/rust-nightly-docker.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNH1VpzbrZWLtyLy5oUJ6-o1FpkVyw"/>
+        <updated>2021-08-10T16:03:08.000Z</updated>
+        <summary type="html"><![CDATA[You can choose between icons from IntelliJ 2016.2 and 2018.1. Install Artichoke Ruby nightly builds with rbenv, Docker, or Cargo. Nightly installs ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[54. コンテナランタイム(前編) w/ TokunagaKohei | fukabori.fm]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fukabori.fm/episode/54&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFQaQfUTJ3ONwNybDtoTQe_UR0W6Q</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fukabori.fm/episode/54&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFQaQfUTJ3ONwNybDtoTQe_UR0W6Q"/>
+        <updated>2021-08-10T16:03:01.000Z</updated>
+        <summary type="html"><![CDATA[CRI ランタイムとは？ docker run 実行後の流れ; 16:09 - 16:30 の「runc run」についての補足: 実際にOCIで ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゆーすけ on Twitter: "先ほど放送された韓国MBC「PD手帳」の内容を見ながら簡単にまとめます。韓国の独島守備隊のチェ・ジェイク氏、挺対協のユン・ミヒャン氏が日本を訪問するたびにスケジュールが筒抜けで右翼や在特に囲まれる。それは韓国の情報機関国家情報院が… https://t.co/lXmUBsVLvo"]]></title>
+        <id>https://twitter.com/yoox5135/status/1425105479580139526</id>
+        <link href="https://twitter.com/yoox5135/status/1425105479580139526"/>
+        <updated>2021-08-10T15:40:48.000Z</updated>
+        <summary type="html"><![CDATA[先ほど放送された韓国MBC「PD手帳」の内容を見ながら簡単にまとめます。韓国の独島守備隊のチェ・ジェイク氏、挺対協のユン・ミヒャン氏が日本を訪問するたびにスケジュールが筒抜けで右翼や在特に囲まれる。それは韓国の情報機関国家情報院が… https://t.co/lXmUBsVLvo]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<b>Docker</b> redash]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://mefo.madeinw.pl/docker-redash.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG95bpp3EiSbf9x_4kGZiLXjXeuvg</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://mefo.madeinw.pl/docker-redash.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNG95bpp3EiSbf9x_4kGZiLXjXeuvg"/>
+        <updated>2021-08-10T15:37:25.000Z</updated>
+        <summary type="html"><![CDATA[docker system df -v Images space usage: REPOSITORY TAG IMAGE ID CREATED ago SIZE SHARED SIZE UNIQUE SiZE CONTAINERS errbit/errbit ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西村大臣「やむをえず帰省は検査を」空港の無料PCR検査拡大へ | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210811/k10013193761000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210811/k10013193761000.html"/>
+        <updated>2021-08-10T15:29:57.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス対策をめぐり西村経済再生担当大臣は10日夜、動画配信サイト「ニコニコ生放送」に出演し、都道府県を越える移動を控えるよう重ねて呼びかけたうえで、やむをえず帰省する人は検査を受けてほしいとして、空港の利用客に行う無料のPCR検査を拡大する方針を明らかにしました。 この中で、西村経済再生担...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[54. コンテナランタイム(前編) w/ TokunagaKohei en Fukabori.fm en mp3(10/08 a las 17:17:24) 37 ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ivoox.com/54-12467-12531-12486-12490-12521-12531-12479-12452-12512-21069-32232-w-tokunagakohei-audios-mp3_rf_73908070_1.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHl04kuk8rpVfP4kfHncNkGcyshmQ</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ivoox.com/54-12467-12531-12486-12490-12521-12531-12479-12452-12512-21069-32232-w-tokunagakohei-audios-mp3_rf_73908070_1.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHl04kuk8rpVfP4kfHncNkGcyshmQ"/>
+        <updated>2021-08-10T15:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Escucha y descarga los episodios de Fukabori.fm gratis. 話したネタ イラストでわかるDockerとKubernetes Software Design... Programa: Fukabori.fm.]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Couchdb <b>docker</b> ui]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://sujil.forsat.pl/couchdb-docker-ui.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNEP0Tt37xYfdOHUyBN_BEU1b4372g</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://sujil.forsat.pl/couchdb-docker-ui.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNEP0Tt37xYfdOHUyBN_BEU1b4372g"/>
+        <updated>2021-08-10T15:04:16.000Z</updated>
+        <summary type="html"><![CDATA[升级 Laradock 到 v4.*.* (git pull origin master) 像之前一样使用 Laradock: docker-compose up -d nginx mysql.]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尾身会長「感染力高まり あまり報告なかった場所でも感染」 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193741000.html"/>
+        <updated>2021-08-10T14:27:54.000Z</updated>
+        <summary type="html"><![CDATA[政府の分科会の尾身茂会長は10日夜、動画配信サイト「ニコニコ生放送」に出演し、感染力の強い変異ウイルス「デルタ株」が主流になり、感染がこれまで広がっていなかった場所でも報告されているとして、基本的な対策を徹底する必要があるという認識を示しました。 この中で、尾身会長はデルタ株について「確かに感染力は...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「事故に遭ったよう」 東京出張後にコロナ発症の男性　「特別なことしなくてもうつる」と警鐘／兵庫・丹波市（丹波新聞） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/0e2e1ac2d1a9d28edb43645de9dbbcceb1f4e7c5</id>
+        <link href="https://news.yahoo.co.jp/articles/0e2e1ac2d1a9d28edb43645de9dbbcceb1f4e7c5"/>
+        <updated>2021-08-10T14:21:57.000Z</updated>
+        <summary type="html"><![CDATA[連日の午後9時の抗炎症剤の注射で、内出血した上腕。両腕に痛々しい注射痕が残る＝2021年8月5日午前11時44分、兵庫県丹波市内で 新型コロナウイルスの第5波の感染が拡大する中、同ウイルスに感染し、兵庫県丹波地域の病院に2週間入院、8月5日に退院した同県丹波市内の30代会社員男性に、発症から退院までの様子を聞いた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「仕事のコード」を残す際のチェックリスト｜Uchio Kondo｜note]]></title>
+        <id>https://note.com/udzura/n/n02f2ffc532e3</id>
+        <link href="https://note.com/udzura/n/n02f2ffc532e3"/>
+        <updated>2021-08-10T13:41:50.000Z</updated>
+        <summary type="html"><![CDATA[最初に注意: この文章は「はじめに」「総論」が長いです🙃 はじめに・「仕事のコード」、つまり、業務などで作ったコードが、なるべく負債にならず、なるべく俗人化しないようにするために留意すると良さそうなことを自分の経験などから列挙したものです。 ・ちなみに、「対象読者」に書いてありますが、そもそものモチ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＥＲ先輩 on Twitter: "本部機動救急、非常用救急を含め、今日は都内ほぼすべての救急車が出払った模様。 私自身、長年救急に携わってきましたがこんなことは初めて。 異例を超えて、もう異常事態としか言いようがありません。 受入要請数も連日100件以上、コロナ… https://t.co/nDNDzrL3SU"]]></title>
+        <id>https://twitter.com/er_sempai/status/1425031093825118208</id>
+        <link href="https://twitter.com/er_sempai/status/1425031093825118208"/>
+        <updated>2021-08-10T13:04:23.000Z</updated>
+        <summary type="html"><![CDATA[本部機動救急、非常用救急を含め、今日は都内ほぼすべての救急車が出払った模様。 私自身、長年救急に携わってきましたがこんなことは初めて。 異例を超えて、もう異常事態としか言いようがありません。 受入要請数も連日100件以上、コロナ… https://t.co/nDNDzrL3SU]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions でキャッシュを利用して <b>Docker</b> イメージを高速にビルドする方法]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://zenn.dev/tatsurom/articles/githubactions-docker-cache&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHYWcPxHJYDOXDG3EuNETz7CIIseg</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://zenn.dev/tatsurom/articles/githubactions-docker-cache&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHYWcPxHJYDOXDG3EuNETz7CIIseg"/>
+        <updated>2021-08-10T12:47:50.000Z</updated>
+        <summary type="html"><![CDATA[今や本番環境に Docker を利用することは当然であり、それに伴い CI/CD パイプラインの中で Docker イメージをビルドするという機会も増えてきたの ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菅首相の長崎式典遅刻の理由はトイレ　予想以上に遠く時間がかかる：東京新聞 TOKYO Web]]></title>
+        <id>https://www.tokyo-np.co.jp/article/123393</id>
+        <link href="https://www.tokyo-np.co.jp/article/123393"/>
+        <updated>2021-08-10T12:41:38.000Z</updated>
+        <summary type="html"><![CDATA[菅義偉首相は１０日、長崎市で９日に開かれた長崎原爆犠牲者慰霊平和祈念式典に１分遅刻したことを陳謝した。「少し前に会場に着いていたが、結果的に時間管理上の問題で遅刻してしまった。心からおわび申し上げたい」と説明した。バイデン米大統領との電話会談後、官邸で記者団の取材に応じた。政府関係者は、トイレに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自宅療養中の死者数、厚労省「把握していない」 [新型コロナウイルス]：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8B6S34P8BUTFK01K.html</id>
+        <link href="https://www.asahi.com/articles/ASP8B6S34P8BUTFK01K.html"/>
+        <updated>2021-08-10T12:09:25.000Z</updated>
+        <summary type="html"><![CDATA[立憲民主党は10日、新型コロナ対策本部と厚生労働部会の合同会議を開いた。新型コロナウイルスに感染し、自宅療養中に死亡した人の人数について、政府側に尋ねたが、厚労省は「把握していない」と述べた。立憲は、東京五輪でメディア用に借り上げられた民間ホテルを療養施設に転用するよう、政府側に求めた。 合同会議で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長尾和弘医師の提言に賛同の声 コロナを5類扱いにすれば「全て氷解」「イベルメクチンという特効薬が…これを全国民に配る」：中日スポーツ・東京中日スポーツ]]></title>
+        <id>https://www.chunichi.co.jp/article/308538</id>
+        <link href="https://www.chunichi.co.jp/article/308538"/>
+        <updated>2021-08-10T11:59:32.000Z</updated>
+        <summary type="html"><![CDATA[フジテレビ系の情報番組「バイキングＭＯＲＥ」は１０日、新型コロナウイルスによる医療逼迫（ひっぱく）を防ぐため、専門家の提言を紹介した。この中で長尾クリニック院長の長尾和弘医師が感染症法上の分類を引き下げるよう訴えると、ツイッターなどには賛同する発言があふれ、「バイキング」がトレンドワード入りした...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ゴールデンカムイ」最新話まで追いついたけれど、女オタクの方々がどのあたりを指して「地獄」と言っているのかがよくわからなかった - 頭の上にミカンをのせる]]></title>
+        <id>https://www.tyoshiki.com/entry/2021/08/10/185840</id>
+        <link href="https://www.tyoshiki.com/entry/2021/08/10/185840"/>
+        <updated>2021-08-10T11:49:17.000Z</updated>
+        <summary type="html"><![CDATA[ゴールデンカムイ、最新話まで追いつきました。 読んでみたらさすがというかめちゃくちゃ面白かったです。　みんなも無料期間中に頑張って最新話まで追いつこう！ ゴールデンカムイ　コミック　1-26巻セット 作者:野田 サトル集英社Amazon 一方で、最新話まで追いついても腐女子の方々が「地獄だ地獄だ」と騒いでるのは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dockerfile で新しく使えるようになった構文「ヒアドキュメント」で複数行の RUN をシュッと書く ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://kakakakakku.hatenablog.com/entry/2021/08/10/085625&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFF2TD6i9BcLGcwmHWmBxjdJnZ5PQ</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://kakakakakku.hatenablog.com/entry/2021/08/10/085625&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFF2TD6i9BcLGcwmHWmBxjdJnZ5PQ"/>
+        <updated>2021-08-10T11:43:03.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月30日に Docker Blog に公開された以下の記事を参考に「Dockerfile で新しく使えるようになった構文 "heredocs"」を試す．Dockerfile で「 ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河村市長がかんだメダル “再発行を” 愛知 大村知事 | オリンピック・パラリンピック 話題 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193251000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193251000.html"/>
+        <updated>2021-08-10T11:27:28.000Z</updated>
+        <summary type="html"><![CDATA[名古屋市の河村市長が東京オリンピックで活躍したソフトボール選手から金メダル獲得の報告を受けた際にマスクを外してメダルをかんだことに関連して、愛知県の大村知事は「可能であればメダルを再発行してほしい。関係者とも話し合っていきたい」と述べました。 名古屋市の河村市長は、8月4日、ソフトボール日本代表チー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【東京五輪】菅政権が「最凶ラムダ株」上陸の発表を期間中に“隠蔽”　米メディアが猛追及 | 東スポのニュースに関するニュースを掲載]]></title>
+        <id>https://www.tokyo-sports.co.jp/entame/news/3513067/</id>
+        <link href="https://www.tokyo-sports.co.jp/entame/news/3513067/"/>
+        <updated>2021-08-10T11:12:42.000Z</updated>
+        <summary type="html"><![CDATA[さらに支持率を下げている菅首相 日本政府が新型コロナウイルスで〝最凶〟とされるラムダ株の国内初検出の発表を東京五輪期間中に隠蔽したと米メディアが猛追及している。 南米で猛威を振るうラムダ株は感染力や重症化リスクが高いうえに、ワクチンの効力を低下させるとして全世界で警戒感が強まっている。 そうした中で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[各党の支持率は NHK世論調査 | 選挙 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013193181000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013193181000.html"/>
+        <updated>2021-08-10T10:36:04.000Z</updated>
+        <summary type="html"><![CDATA[各党の支持率です。 「自民党」が33.4％、「立憲民主党」が6.4％、「公明党」が3.7％、「共産党」が3.3％、「日本維新の会」が1.7％、「国民民主党」が0.8％、「社民党」が0.5％、「れいわ新選組」が0.2％、「NHKと裁判してる党弁護士法72条違反で」が0.2％、「特に支持している政党はない」が42.8％でした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux研修【オンライン】コンテナ技術・<b>Docker</b>/Kubernetesについて | Linux技術者認定 LinuC ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://linuc.org/study/seminar/2815/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNESHF33bE4LYwt3QgYu1MmYo6RS3g</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://linuc.org/study/seminar/2815/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNESHF33bE4LYwt3QgYu1MmYo6RS3g"/>
+        <updated>2021-08-10T10:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Linux研修【オンライン】コンテナ技術・Docker/Kubernetesについて. セミナー開催日 2021年10月10日 ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外国人記者が最後に語った“東京五輪の本音”「セブンイレブンは最高」「あの菓子パンが美味しかった」「シブヤが暗くて驚いた」 - 他競技 - Number Web - ナンバー]]></title>
+        <id>https://number.bunshun.jp/articles/-/849322</id>
+        <link href="https://number.bunshun.jp/articles/-/849322"/>
+        <updated>2021-08-10T10:35:14.000Z</updated>
+        <summary type="html"><![CDATA[閉幕した東京五輪。来日した外国人記者・カメラマンらに、大会の終わりに“本音”を聞いた。彼らが話してくれた「コンビニ愛」、「交通のもどかしさ」そして「日本人のホスピタリティ」とは――。 「オリンピックの取材を10回、12回、14回と重ねてきたベテランカメラマンであっても、今回に限っては一歩ずつ、様子を見ながら...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローカルの <b>Docker</b>イメージ を Azure Container Registry（ACR）に プッシュしてみました - Qiita]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://qiita.com/turupon/items/c8c1b4c3c51caa1b85b2&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHd0YV9swM-E_n1xfBeRvduiBEByg</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://qiita.com/turupon/items/c8c1b4c3c51caa1b85b2&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHd0YV9swM-E_n1xfBeRvduiBEByg"/>
+        <updated>2021-08-10T10:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Docker環境での動作確認. この記事 にあるように、ローカルのIoTデータ生成プログラムからのデータがGrafanaでリアルタムに表示されることを確認し ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[柴田道子[被差別部落の生活と伝承](ちくま文庫)を読んだ。]]></title>
+        <id>https://anond.hatelabo.jp/20210810181919</id>
+        <link href="https://anond.hatelabo.jp/20210810181919"/>
+        <updated>2021-08-10T09:47:59.000Z</updated>
+        <summary type="html"><![CDATA[原著の刊行は71年、当時の部落解放同盟書記長の中山氏とともに長野県内の被差別部落の古老たちを訪れて聞きとり調査したもので、現代よりずっと差別が苛烈で激しかった時代や大正デモクラシーの波にのった解放運動の記憶もまだ生々しく覚えている人が多く、本当に大変貴重な証言ばかりだった。 (まず基礎知識ですけど、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“ワクチンで不妊”のデマ なぜ拡散し続けているのか | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013192071000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013192071000.html"/>
+        <updated>2021-08-10T09:45:27.000Z</updated>
+        <summary type="html"><![CDATA[去年からネットで広がっている「ワクチン接種で不妊になる」という、科学的根拠がないとして多くの専門家が否定している情報は、誰が広め、なぜ拡散し続けているのか。 私たちが専門家と協力してSNSのビッグデータを分析したところ、誤った情報の「拡散者」の存在と、そこにごく一部の現役の医療関係者たちが加わってい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“丸川発言”にネット爆発「日本人よりバッハを守る丸川珠代」「はい、自粛終了のお知らせ！」― スポニチ Sponichi Annex 芸能]]></title>
+        <id>https://www.sponichi.co.jp/entertainment/news/2021/08/10/kiji/20210810s00041000329000c.html</id>
+        <link href="https://www.sponichi.co.jp/entertainment/news/2021/08/10/kiji/20210810s00041000329000c.html"/>
+        <updated>2021-08-10T09:45:15.000Z</updated>
+        <summary type="html"><![CDATA[“丸川発言”にネット爆発「日本人よりバッハを守る丸川珠代」「はい、自粛終了のお知らせ！」]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon | <b>Docker</b> Dog Owner Coffee Lovers Quote Vintage Retro Coffee Tasting Journal: Coffee ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.amazon.co.jp/Docker-Coffee-Vintage-Tasting-Journal/dp/B09B7DC1D6&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNGUx9CxdFAeWU2O6a2BImMZblbcsw</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.amazon.co.jp/Docker-Coffee-Vintage-Tasting-Journal/dp/B09B7DC1D6&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNGUx9CxdFAeWU2O6a2BImMZblbcsw"/>
+        <updated>2021-08-10T09:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazon配送商品ならDocker Dog Owner Coffee Lovers Quote Vintage Retro Coffee Tasting Journal: Coffee Tracking, Log and Rate Coffee Varieties ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国が自然科学の論文の「質」で初の世界1位 日本は10位 | 中国 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210810/k10013192931000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210810/k10013192931000.html"/>
+        <updated>2021-08-10T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[おととしまでの3年間に世界で発表された自然科学の論文を分析したところ、論文の質の高さの指標とされる引用回数の多い論文の数で、中国が初めて世界1位になったという調査結果を文部科学省の研究所が公表しました。 文部科学省の科学技術・学術政策研究所は、発表された自然科学の論文を分析して世界各国の研究動向を調...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ubuntu : カーネルセキュリティパッチは<b>Docker</b>コンテナには必要ありませんか？]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fixes.pub/linux/815100.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE_AW9GaMKNaP-NtVkjx9TFf-zZ1A</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fixes.pub/linux/815100.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE_AW9GaMKNaP-NtVkjx9TFf-zZ1A"/>
+        <updated>2021-08-10T09:34:00.000Z</updated>
+        <summary type="html"><![CDATA[ホストとDockerコンテナは同じカーネルを使用しているので、セキュリティパッチをホストに適用する必要があります。 例：CVE-2021-33909 ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、初心者向けのIoTカリキュラム無料公開 12週間で学習できる | Ledge.ai]]></title>
+        <id>https://ledge.ai/microsoft-iot-for-beginners-curriculum/</id>
+        <link href="https://ledge.ai/microsoft-iot-for-beginners-curriculum/"/>
+        <updated>2021-08-10T09:14:39.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロソフト（Microsoft）は、あらゆる年齢層の人がIoT（モノのインターネット）の基礎を学べるように、GitHub上に無料のカリキュラム「はじめてのIoT、カリキュラム（IoT for Beginners, curriculum）」を無料公開した。 本カリキュラムは「IoT入門」「デバイスをインターネットに接続する」「アプリケーションロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOpsソフトウェア市場の進化するテクノロジー、トレンド、需要2021- Gradle Inc.、IBM ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://securetpnews.info/2021/08/10/devops%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E5%25B8%2582%25E5%25A0%25B4%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258E%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%25E3%2580%2581%25E3%2583%2588/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHySAY94DQhfUO7kfq-OZcBC9_Wpg</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://securetpnews.info/2021/08/10/devops%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E5%25B8%2582%25E5%25A0%25B4%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258E%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%25E3%2580%2581%25E3%2583%2588/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHySAY94DQhfUO7kfq-OZcBC9_Wpg"/>
+        <updated>2021-08-10T09:11:15.000Z</updated>
+        <summary type="html"><![CDATA[... Inc.、IBM、Raygun、Microsoft Corporation、Digital.ai、Red Hat、Inc.、Broadcom、Atlassian、Puppet、Docker Inc.、Hewlett-Packardです。]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[講座一覧・検索 | インプレス・アカデミー]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://academy.impress.co.jp/courses%3Ftags%5B37%5D%3D37%26tags%5B29%5D%3D29%26tags%5B44%5D%3D44%26tags%5B12%5D%3D12%26tags%5B22%5D%3D22%26tags%5B42%5D%3D42%26tags%5B30%5D%3D30%26start_date%3D%26end_date%3D%26location%3DAll%26sort_by%3Dpublished_at%26sort_order%3DDESC%26a%3D%26tags%5B18%5D%3D18&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHTNLutFoMb8DJrFrowOedfdSNAtg</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://academy.impress.co.jp/courses%3Ftags%5B37%5D%3D37%26tags%5B29%5D%3D29%26tags%5B44%5D%3D44%26tags%5B12%5D%3D12%26tags%5B22%5D%3D22%26tags%5B42%5D%3D42%26tags%5B30%5D%3D30%26start_date%3D%26end_date%3D%26location%3DAll%26sort_by%3Dpublished_at%26sort_order%3DDESC%26a%3D%26tags%5B18%5D%3D18&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHTNLutFoMb8DJrFrowOedfdSNAtg"/>
+        <updated>2021-08-10T09:08:53.000Z</updated>
+        <summary type="html"><![CDATA[コンテナ技術講座＜第8回 Docker基礎編＞・＜第8回 Docker実践編＞. 初級. 中級. クラウドネイティブ. Docker. Dockerの基本的概要及びコマンドの ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタル庁次官候補の伊藤穣一氏、「性犯罪者から資金提供はさすがにマズイ」と人事問題化に | デイリー新潮]]></title>
+        <id>https://www.dailyshincho.jp/article/2021/08101050/?all=1</id>
+        <link href="https://www.dailyshincho.jp/article/2021/08101050/?all=1"/>
+        <updated>2021-08-10T08:58:50.000Z</updated>
+        <summary type="html"><![CDATA[ジェフリー・エプスタインとの関係 菅義偉首相の肝いりで新設される予定のデジタル庁について、事務方トップの「デジタル監（事務次官に相当）」に、実業家で個人投資家の伊藤穰一氏（55）を起用する方向で最終調整に入ったと報じられた。伊藤氏は、「食べログ」などを運営するカカクコムなどを傘下に持つ「デジタルガレ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陰謀論を信じる母に悩む28歳女性に、鴻上尚史が明かした「カルト宗教にハマった友人の洗脳を解いた」過去 (1/7) 〈dot.〉｜AERA dot. (アエラドット)]]></title>
+        <id>https://dot.asahi.com/dot/2021080300053.html</id>
+        <link href="https://dot.asahi.com/dot/2021080300053.html"/>
+        <updated>2021-08-10T08:52:45.000Z</updated>
+        <summary type="html"><![CDATA[SNSを通じて陰謀論に傾倒するようになった母を心配する28歳女性。母を説得しても効果がなく「正直、負担」と悩む相談者に、鴻上尚史が語る「カルト宗教を信じる友人を洗脳から解いた」その後。 【相談113】母が1年ほど前から、SNSを通じて陰謀論の世界に入りこみ始めました（28歳　女性　じーこ） 私の悩みは、母（50代...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バンダイナムコ知新「第8回　第1章 ナムコサウンドの足跡をたどる【前編】」慶野由利子氏、小沢純子氏、中潟憲雄氏、大久保博氏　インタビュー | アソビモット]]></title>
+        <id>https://asobimotto.bandainamcoent.co.jp/9012/</id>
+        <link href="https://asobimotto.bandainamcoent.co.jp/9012/"/>
+        <updated>2021-08-10T08:40:31.000Z</updated>
+        <summary type="html"><![CDATA[きらびやかなカラーに彩られたエイリアンが、星の流れの中をきれいな弧を描きながら編隊でマイシップに迫る『ギャラクシアン』。ドットイートゲームにキャラクター性を盛り込み、キャラクターの性格までをも動きやグラフィックで表現し、スリリングな逆転要素で世界中の老若男女に親しまれた『パックマン』。 1980年代、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜあの人はウレタンマスクを使い続けているのか｜ハラオカヒサ｜note]]></title>
+        <id>https://note.com/mostsouthguitar/n/n3ab3bad107b9</id>
+        <link href="https://note.com/mostsouthguitar/n/n3ab3bad107b9"/>
+        <updated>2021-08-10T08:36:40.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アプリケーションコンテナサービス市場（Covide-19）市場レポート2020-26 沿って Amazon Web ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://gear-net.com/news/1103459/%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E5%25B8%2582%25E5%25A0%25B4%25EF%25BC%2588covide-19%25EF%25BC%2589%25E5%25B8%2582/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHNbUv5R-CWct3N2MdOYxUCvEtEVA</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://gear-net.com/news/1103459/%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E5%25B8%2582%25E5%25A0%25B4%25EF%25BC%2588covide-19%25EF%25BC%2589%25E5%25B8%2582/&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNHNbUv5R-CWct3N2MdOYxUCvEtEVA"/>
+        <updated>2021-08-10T08:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services, IBM, Microsoft, Apcera, Cisco, Red Hat, Docker, Google, VMware, Apprenda, Joyent, Rancher Labs, SUSE, Sysdig, Jelastic, ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感染爆発なのに危機感がない　人々の心理に何が起こっているのか　効果的な対策は？（原田隆之） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/haradatakayuki/20210810-00252430</id>
+        <link href="https://news.yahoo.co.jp/byline/haradatakayuki/20210810-00252430"/>
+        <updated>2021-08-10T06:58:55.000Z</updated>
+        <summary type="html"><![CDATA[爆発と五輪開催　東京オリンピックが閉幕した。緊急事態宣言下の五輪開催という異例の事態のなか、まさに感染爆発という事態が続いている。 前回の記事では、五輪開幕直後の人々の心理とそれが感染拡大に影響を与える点について指摘した（コロナ禍の五輪に熱狂する人々の心理とそこで忘れてはいけないこと）。 そこでは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お前は危険物甲種名乗んな 山が当たって甲種取っただけのお前は知らんだろ..]]></title>
+        <id>https://anond.hatelabo.jp/20210810082208</id>
+        <link href="https://anond.hatelabo.jp/20210810082208"/>
+        <updated>2021-08-10T06:24:35.000Z</updated>
+        <summary type="html"><![CDATA[お前は危険物甲種名乗んな 山が当たって甲種取っただけのお前は知らんだろうが危険物には指定数量ってのがあるワケ。 たとえばガソリンは指定数量が200リットルと消防法で定められている。指定数量ってのが何なのかと言うと、この量を超える危険物を取り扱う際は法律の規制を受けますよ、って量なんだわ。 で、ガソリン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「クラウドネイティブ内製化支援サービス with Azure Kubernetes Service」の トレーニング ...]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.sanspo.com/geino/news/20210810/prl21081015320130-n1.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE-fLNw2EsAv3_atqD5qjuzhsAjvg</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.sanspo.com/geino/news/20210810/prl21081015320130-n1.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNE-fLNw2EsAv3_atqD5qjuzhsAjvg"/>
+        <updated>2021-08-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Azureで学ぶDocker Kubernetesトレーニング. コンテナの基礎となるDocker、複数コンテナのコントロールを可能とするDocker Compose、コンテナ ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<b>Docker</b>開発環境(5): キャッシュの活用とYoctoビルド環境の派生]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://zenn.dev/anyakichi/articles/2e2cfcb9af7728&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNH1yhWIoIfglbujsn31M455fa5l3A</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://zenn.dev/anyakichi/articles/2e2cfcb9af7728&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNH1yhWIoIfglbujsn31M455fa5l3A"/>
+        <updated>2021-08-10T05:58:19.000Z</updated>
+        <summary type="html"><![CDATA[前回は docker-buildenv を用いて Yocto のビルド環境を作成しました。Yocto を素の状態からビルドをするとソースコードのダウンロードや ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cqlsh <b>Docker</b>]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://peis.panificiodelcorso.it/cqlsh-docker.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNF8LsX4KJ2h8AB-AMoMTZPs40HZ7w</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=http://peis.panificiodelcorso.it/cqlsh-docker.html&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNF8LsX4KJ2h8AB-AMoMTZPs40HZ7w"/>
+        <updated>2021-08-10T05:12:58.000Z</updated>
+        <summary type="html"><![CDATA[$ docker exec -it cassandra cqlsh -u cassandra --ssl Password: Connected to Test Cluster at 127. Use Docker to connect to Cassandra databases ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バッハ氏の銀座散策　丸川五輪相「不要不急かは本人が判断すべきだ」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210810/k00/00m/050/118000c</id>
+        <link href="https://mainichi.jp/articles/20210810/k00/00m/050/118000c"/>
+        <updated>2021-08-10T04:33:48.000Z</updated>
+        <summary type="html"><![CDATA[警護がつく中、東京・銀座を歩くIOCのバッハ会長（中央）＝東京都中央区で2021年8月9日午後4時6分（読者提供） 丸川珠代五輪担当相は10日の閣議後の記者会見で、国際オリンピック委員会（IOC）のトーマス・バッハ会長が9日に東京・銀座を訪れたことについて、「不要不急かどうかは本人が判断すべきだ」と述べた。 新型コ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[B! bash] <b>docker</b> for windowsをgit bashで使うときの-v(volume)の指定の仕方 - Qiita]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://b.hatena.ne.jp/entry/s/qiita.com/amanoese/items/8a19548d5e9dc2e22959&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNExlMqgsQ2VE0L9dzf-gjufsWXJXw</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://b.hatena.ne.jp/entry/s/qiita.com/amanoese/items/8a19548d5e9dc2e22959&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNExlMqgsQ2VE0L9dzf-gjufsWXJXw"/>
+        <updated>2021-08-10T03:45:12.000Z</updated>
+        <summary type="html"><![CDATA[docker for windowsをgit bashで使うときの-v(volume)の指定の仕方 - Qiita. Help us understand the problem. What is going on with this article? Help us ...]]></summary>
+        <author>
+            <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[まじめな会社員 - 冬野梅子 / 第１話　さよなら定型文 | コミックDAYS]]></title>
+        <id>https://comic-days.com/episode/3269754496402490831</id>
+        <link href="https://comic-days.com/episode/3269754496402490831"/>
+        <updated>2021-08-10T03:24:02.000Z</updated>
+        <summary type="html"><![CDATA[まじめな会社員 冬野梅子 コロナ禍における、新種の孤独と人生のたのしみを、「普通の人でいいのに！」で大論争を巻き起こした新人・冬野梅子が描き切る！菊池あみ子、30歳。契約社員。彼氏は5年いない。いろんな生き方が提示される時代とはいえ、結婚せずにいる自分へ向けられる世間の厳しい目を、勝手に意識せずにはい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kentaro.maeda on Twitter: &quot;m1 mac の<b>docker</b> k8s が普通に動く(適当なheml chartがインストール ...]]></title>
         <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://twitter.com/kencharos/status/1424873686746558465&amp;ct=ga&amp;cd=CAIyHDA4Mjc1MTM0ZTczODI4ODE6Y28uanA6amE6SlA&amp;usg=AFQjCNFgFRCzK-OwTSILwVU2QdpM1UvE3g</id>
@@ -34,6 +524,16 @@
         <summary type="html"><![CDATA[NET Core inside a container. The Docker Desktop WSL2 backend integrates Docker containers with the "official" integrated Windows/Linux ecosystem ( ...]]></summary>
         <author>
             <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウェザーニューズが実践 「<b>AWS</b>」を安心して安く使う工夫とは？]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techtarget.itmedia.co.jp/tt/news/2108/02/news14.html&amp;ct=ga&amp;cd=CAIyHDcwOGI3YWQwZTliNDMxZWU6Y28uanA6amE6SlA&amp;usg=AFQjCNGEEgN_qnwS5c2dKsL4QH_u3N9U8g</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techtarget.itmedia.co.jp/tt/news/2108/02/news14.html&amp;ct=ga&amp;cd=CAIyHDcwOGI3YWQwZTliNDMxZWU6Y28uanA6amE6SlA&amp;usg=AFQjCNGEEgN_qnwS5c2dKsL4QH_u3N9U8g"/>
+        <updated>2021-08-09T20:26:15.000Z</updated>
+        <summary type="html"><![CDATA[... 手間やコストをなるべく抑えるために、ユーザー企業側でインフラの運用や監視が不要なマネージドサービスをできるだけ活用する方針を決めた。]]></summary>
+        <author>
+            <name>Google アラート - コスト監視 AWS</name>
         </author>
     </entry>
     <entry>
@@ -934,6 +1434,16 @@
         <summary type="html"><![CDATA[Docker run出错standard_init_linux. go:348: starting container process caused "exec: \"/bin/bash\": stat /bin/bash: no such file or ...]]></summary>
         <author>
             <name>Google アラート - docker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最低限のNetwork知識]]></title>
+        <id>https://zenn.dev/hee/articles/ce9002ae525622</id>
+        <link href="https://zenn.dev/hee/articles/ce9002ae525622"/>
+        <updated>2021-08-08T04:31:07.000Z</updated>
+        <summary type="html"><![CDATA[ネットワークを集中的に勉強したのでそのうちの基礎的な部分だけを抽出して記事にしました。主にL2とL3の話しかしてないです。 参考文献(とても良書なので興味ある人は是非) ・tanenbaum先生の教科書(Networkの世界的bible) ・CでネットワークプログラミングをするHands-on本(とても読みやすかった) ・Linuxで仮想ネット...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>
